@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Otázky</title>
+        <meta name="description" content="AI pro piškvorky">
+        <!--<link rel="stylesheet" type="text/css" href="style.css">-->
+
+        <script type="text/javascript">
+            'use strict';
+
+            function readSingleFile(e) {
+                var file = e.target.files[0];
+                if (!file) {
+                    return;
+                }
+                var reader = new FileReader();
+                reader.onload = function(e) {
+                    var contents = e.target.result;
+                    displayContents(contents);
+                };
+                reader.readAsText(file);
+            }
+
+            function displayContents(contents) {
+                var element = document.getElementById('file-content');
+                element.innerHTML = contents;
+            }
+
+            
+        </script>
+    </head>
+    <body>    
+        <h1>Otázky</h1>
+        
+        <input type="file" id="file-input" />
+        <h3>Contents of the file:</h3>
+        <pre id="file-content"></pre>
+        
+        <script type="text/javascript">
+            document.getElementById('file-input')
+                .addEventListener('change', readSingleFile, false);
+        </script>
+    </body>
+</html>
