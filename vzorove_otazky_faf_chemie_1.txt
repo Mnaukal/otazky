@@ -1,0 +1,14362 @@
+1.
+
+
+
+
+
+
+
+Nuklid je: 
+
+B 
+
+ 
+
+A) směs isotopů téhož prvku 
+
+ 
+
+ 
+
+B) soubor atomů se stejným protonovým a nukleonovým číslem 
+
+ 
+
+ 
+
+C) soubor atomů se stejným protonovým a různým nukleonovým číslem 
+
+ 
+
+ 
+
+D) soubor atomů se stejným nukleonovým a různým protonovým číslem 
+
+ 
+
+
+
+ 
+
+2. 
+
+
+Který z uvedených symbolů pro atomové orbitaly je chybný: 
+
+D 
+
+ 
+
+A) 3p 
+
+ 
+
+ 
+
+B) 6s 
+
+ 
+
+ 
+
+C) 4f 
+
+ 
+
+ 
+
+D) 2d 
+
+ 
+
+
+
+ 
+
+3. 
+
+
+Magnetické kvantové číslo m udává: 
+
+C 
+
+ 
+
+A) počet elektronů v zaplněném orbitalu 
+
+ 
+
+ 
+
+B) tvar orbitalu 
+
+ 
+
+ 
+
+C) orientaci orbitalu v prostoru 
+
+ 
+
+ 
+
+D) energetický stav orbitalu 
+
+ 
+
+
+
+ 
+
+4. 
+
+
+Uveďte typy orbitalu, které se mohou vyskytovat ve vrstvě K: 
+
+A 
+
+ 
+
+A) pouze s 
+
+ 
+
+ 
+
+B) s + d 
+
+ 
+
+ 
+
+C) s + p + d 
+
+ 
+
+ 
+
+D) s + p + d + f 
+
+ 
+
+
+
+ 
+
+5. 
+
+
+Uveďte maximální počet elektronů v orbitalu 3d: 
+
+D 
+
+ 
+
+A) 3 
+
+ 
+
+ 
+
+B) 5 
+
+ 
+
+ 
+
+C) 6 
+
+ 
+
+ 
+
+D) 10 
+
+ 
+
+
+
+ 
+
+6. 
+
+
+Označte správnou definici Hundova pravidla: 
+
+C 
+
+ 
+
+A) maximální počet elektronů v orbitalu je 2 
+
+ 
+
+ 
+
+B) v základním stavu se obsazují orbitaly s nejnižší energií 
+
+ 
+
+ 
+
+C) orbitaly se stejnou energií se obsazují nejprve všechny po jednom elektronu se 
+stejným spinem 
+
+ 
+
+ 
+
+D) v atomu neexistují dva elektrony, které by měly všechna kvantová čísla shodná 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+7. 
+
+
+Uveďte, které tvrzení o kvantových číslech je nesprávné: 
+
+B 
+
+ 
+
+A) vedlejší kvantové číslo l nabývá hodnot 0 - (n - 1) 
+
+ 
+
+ 
+
+B) orbital s vedlejším kvantovým číslem l=1 označujeme symbolem s 
+
+ 
+
+ 
+
+C) magnetické kvantové číslo ml nabývá hodnot od -l do +l (včetně nuly), kde l je 
+vedlejší kvantové číslo 
+
+ 
+
+ 
+
+D) orbitaly, které mají stejné hlavní a vedlejší kvantové číslo a liší se magnetickým 
+kvantovým číslem nazýváme degenerované 
+
+ 
+
+
+
+ 
+
+8. 
+
+
+Magnetické kvantové číslo m orbitalu typu d nabývá hodnot: 
+
+C 
+
+ 
+
+A) -2, -1, +1, +2 
+
+ 
+
+ 
+
+B) -1, 0, +1 
+
+ 
+
+ 
+
+C) -2, -1, 0, +1, +2 
+
+ 
+
+ 
+
+D) 0, +1, +2, +3 
+
+ 
+
+
+
+ 
+
+9. 
+
+
+Hlavní kvantové číslo n=2; pak vedlejší kvantové číslo l nabývá hodnot: 
+
+A 
+
+ 
+
+A) 0, 1 
+
+ 
+
+ 
+
+B) 1 
+
+ 
+
+ 
+
+C) 0 
+
+ 
+
+ 
+
+D) 0, 1, 2 
+
+ 
+
+
+
+ 
+
+10. 
+
+
+Rozhodněte, které tvrzení je nesprávné: 
+
+A 
+
+ 
+
+A) elektronová afinita je energie uvolněná při vzniku kationtu 
+
+ 
+
+ 
+
+B) ionizační energie je energie nutná k odtržení elektronu z atomu, případně iontu, 
+v plynném stavu 
+
+ 
+
+ 
+
+C) elektronegativita je míra schopnosti atomu přitahovat elektrony sdílené s jiným 
+atomem 
+
+ 
+
+ 
+
+D) kovalentní poloměr atomu je menší než jeho van der Waalsův poloměr 
+
+ 
+
+
+
+ 
+
+11. 
+
+
+Ionizační energie je energie potřebná k: 
+
+B 
+
+ 
+
+A) odtržení protonu z atomu v plynném stavu 
+
+ 
+
+ 
+
+B) odtržení elektronu z atomu v plynném stavu 
+
+ 
+
+ 
+
+C) k rozštěpení kovalentní vazby 
+
+ 
+
+ 
+
+D) ke vzniku aniontu 
+
+ 
+
+
+
+ 
+
+12. 
+
+
+Rozhodněte, jaké je pořadí zaplňování orbitalů elektrony podle výstavbového principu: 
+
+A 
+
+ 
+
+A) 1s 2s 2p 3s 3p 4s 3d 4p 
+
+ 
+
+ 
+
+B) 1s 2s 2p 3s 3p 3d 4s 4p 
+
+ 
+
+ 
+
+C) 1s 2s 2p 3s 3d 4s 3p 4p 
+
+ 
+
+ 
+
+D) 1s 2s 3s 4s 2p 3p 4p 3d 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+13. 
+
+
+Jako degenerované orbitaly označujeme orbitaly: 
+
+A 
+
+ 
+
+A) stejné energetické hladiny, ale rozdílného prostorového uspořádání 
+
+ 
+
+ 
+
+B) rozdílné energetické hladiny, ale stejného prostorového uspořádání 
+
+ 
+
+ 
+
+C) obsazené jedním elektronem 
+
+ 
+
+ 
+
+D) plně obsazené orbitaly 
+
+ 
+
+
+
+ 
+
+14. 
+
+
+Mezi biogenní prvky nepatří: 
+
+D 
+
+ 
+
+A) síra 
+
+ 
+
+ 
+
+B) fosfor 
+
+ 
+
+ 
+
+C) železo 
+
+ 
+
+ 
+
+D) rtuť 
+
+ 
+
+
+
+ 
+
+15. 
+
+
+Protonové číslo udává několik vlastností prvku. Kterou vlastnost neudává: 
+
+B 
+
+ 
+
+A) pořadí prvku v PSP 
+
+ 
+
+ 
+
+B) počet nukleonů 
+
+ 
+
+ 
+
+C) počet elektronů v obalu 
+
+ 
+
+ 
+
+D) počet protonů v jádře 
+
+ 
+
+
+
+ 
+
+16. 
+
+
+Uveďte, který druh radioaktivního záření má největší ionizační schopnosti: 
+
+C 
+
+ 
+
+A) záření gama 
+
+ 
+
+ 
+
+B) záření beta 
+
+ 
+
+ 
+
+C) záření alfa 
+
+ 
+
+ 
+
+D) Röntgenovo záření 
+
+ 
+
+
+
+ 
+
+17. 
+
+
+Radioaktivní záření .- je vyvoláno: 
+
+C 
+
+ 
+
+A) přeměnou protonu v jádře 
+
+ 
+
+ 
+
+B) přeskokem elektronu do jádra 
+
+ 
+
+ 
+
+C) přeměnou neutronu v jádře 
+
+ 
+
+ 
+
+D) emisí elektronu v el. obalu 
+
+ 
+
+
+
+ 
+
+18. 
+
+
+Orbital je: 
+
+C 
+
+ 
+
+A) kruhová dráha, po které obíhá elektron 
+
+ 
+
+ 
+
+B) prostor s výskytem nukleonů 
+
+ 
+
+ 
+
+C) prostor s největší pravděpodobností výskytu elektronů 
+
+ 
+
+ 
+
+D) atomový prostor s největší hustotou 
+
+ 
+
+
+
+ 
+
+19. 
+
+
+Který z uvedených prvků se za normálních podmínek vyskytuje v plynném stavu: 
+
+A 
+
+ 
+
+A) fluor 
+
+ 
+
+ 
+
+B) brom 
+
+ 
+
+ 
+
+C) křemík 
+
+ 
+
+ 
+
+D) lithium 
+
+ 
+
+
+
+ 
+
+
+20. 
+
+
+Který z uvedených prvků je za normálních podmínek v kapalném skupenství: 
+
+C 
+
+ 
+
+A) kyslík 
+
+ 
+
+ 
+
+B) vodík 
+
+ 
+
+ 
+
+C) brom 
+
+ 
+
+ 
+
+D) fosfor 
+
+ 
+
+
+
+ 
+
+21. 
+
+
+Excitovaný stav atomu je stav atomu s: 
+
+C 
+
+ 
+
+A) nejnižší energií 
+
+ 
+
+ 
+
+B) vyšší energií a stejnou elektronovou konfigurací jako je základní stav atomu 
+
+ 
+
+ 
+
+C) vyšší energií a rozdílnou elektronovou konfigurací jako je základní stav atomu 
+
+ 
+
+ 
+
+D) nižší energií než je základní stav atomu 
+
+ 
+
+
+
+ 
+
+22. 
+
+
+Elektronová afinita je energetická bilance děje: 
+
+A 
+
+ 
+
+A) X(g) + e- . X-(g) 
+
+ 
+
+ 
+
+B) X(g) - e- . X+(g) 
+
+ 
+
+ 
+
+C) X(s) + e- . X-(s) 
+
+ 
+
+ 
+
+D) X(g) + Y(g) . XY(g) 
+
+ 
+
+
+
+ 
+
+23. 
+
+
+Rozhodněte, které pořadí elektronegativity je chybné: 
+
+D 
+
+ 
+
+A) F . Cl . Br . I 
+
+ 
+
+ 
+
+B) F . O . N . C 
+
+ 
+
+ 
+
+C) O . S . Te 
+
+ 
+
+ 
+
+D) O . F . N 
+
+ 
+
+
+
+ 
+
+24. 
+
+
+Jev, kdy se sloučenina vyskytuje v několika krystalických formách, se nazývá: 
+
+C 
+
+ 
+
+A) alotropie 
+
+ 
+
+ 
+
+B) izosterie 
+
+ 
+
+ 
+
+C) polymorfie 
+
+ 
+
+ 
+
+D) izomorfie 
+
+ 
+
+
+
+ 
+
+25. 
+
+
+Plně obsazená vrstva L obsahuje: 
+
+C 
+
+ 
+
+A) 2 elektrony 
+
+ 
+
+ 
+
+B) 18 elektronů 
+
+ 
+
+ 
+
+C) 8 elektronů 
+
+ 
+
+ 
+
+D) 10 elektronů 
+
+ 
+
+
+
+ 
+
+26. 
+
+
+Rozhodněte, kolikrát degenerovaný je orbital 3d: 
+
+B 
+
+ 
+
+A) 2x 
+
+ 
+
+ 
+
+B) 5x 
+
+ 
+
+ 
+
+C) není degenerovaný 
+
+ 
+
+ 
+
+D) 3x 
+
+ 
+
+
+
+ 
+
+
+27. 
+
+
+Z uvedených prvků se v přírodě v elementárním stavu nenachází: 
+
+D 
+
+ 
+
+A) uhlík 
+
+ 
+
+ 
+
+B) dusík 
+
+ 
+
+ 
+
+C) síra 
+
+ 
+
+ 
+
+D) fluor 
+
+ 
+
+
+
+ 
+
+28. 
+
+
+Elektronová konfigurace atomu kyslíku 8O je: 
+
+B 
+
+ 
+
+A) 1s22s22p6 
+
+ 
+
+ 
+
+B) 1s22s22p4 
+
+ 
+
+ 
+
+C) 1s22s22p63s2 
+
+ 
+
+ 
+
+D) 1s22p43s2 
+
+ 
+
+
+
+ 
+
+29. 
+
+
+Mezi alkalické kovy nepatří: 
+
+A 
+
+ 
+
+A) stroncium 
+
+ 
+
+ 
+
+B) rubidium 
+
+ 
+
+ 
+
+C) sodík 
+
+ 
+
+ 
+
+D) cesium 
+
+ 
+
+
+
+ 
+
+30. 
+
+
+Mezi prvky 2. periody nepatří: 
+
+A 
+
+ 
+
+A) hořčík 
+
+ 
+
+ 
+
+B) beryllium 
+
+ 
+
+ 
+
+C) neon 
+
+ 
+
+ 
+
+D) bor 
+
+ 
+
+
+
+ 
+
+31. 
+
+
+Elektronová konfigurace valenční sféry halogenů je: 
+
+C 
+
+ 
+
+A) ns2 np7 
+
+ 
+
+ 
+
+B) ns2 np5 (n - 1)d 
+
+ 
+
+ 
+
+C) ns2 np5 
+
+ 
+
+ 
+
+D) ns2 (n - 1)p5 
+
+ 
+
+
+
+ 
+
+32. 
+
+
+Prvek chrom patří mezi: 
+
+A 
+
+ 
+
+A) přechodné prvky 
+
+ 
+
+ 
+
+B) platinové kovy 
+
+ 
+
+ 
+
+C) lanthanoidy 
+
+ 
+
+ 
+
+D) kovy alkalických zemin 
+
+ 
+
+
+
+ 
+
+33. 
+
+
+Valenční sféra 2s22p2 přísluší atomu: 
+
+C 
+
+ 
+
+A) křemíku 
+
+ 
+
+ 
+
+B) dusíku 
+
+ 
+
+ 
+
+C) uhlíku 
+
+ 
+
+ 
+
+D) síry 
+
+ 
+
+
+
+ 
+
+ 
+
+
+34. 
+
+
+Transurany jsou: 
+
+C 
+
+ 
+
+A) prvky připravené radioaktivním rozpadem uranu 
+
+ 
+
+ 
+
+B) isotopy uranu 
+
+ 
+
+ 
+
+C) prvky stojící v PSP za uranem 
+
+ 
+
+ 
+
+D) prvky vzniklé v jaderných elektrárnách 
+
+ 
+
+
+
+ 
+
+35. 
+
+
+Valenční elektronová konfigurace prvků - Ca, Sr, Ba je: 
+
+A 
+
+ 
+
+A) ns2 
+
+ 
+
+ 
+
+B) (n-1)d10ns2 
+
+ 
+
+ 
+
+C) ns1 
+
+ 
+
+ 
+
+D) (n-1)d10ns1 
+
+ 
+
+
+
+ 
+
+36. 
+
+
+Elektronová konfigurace valenčních elektronů ns2np4 patří: 
+
+B 
+
+ 
+
+A) uhlíku a dusíku 
+
+ 
+
+ 
+
+B) síře a selenu 
+
+ 
+
+ 
+
+C) síře a uhlíku 
+
+ 
+
+ 
+
+D) kyslíku a dusíku 
+
+ 
+
+
+
+ 
+
+37. 
+
+
+Který z uvedených prvků nepatří mezi halogeny: 
+
+B 
+
+ 
+
+A) jod 
+
+ 
+
+ 
+
+B) fosfor 
+
+ 
+
+ 
+
+C) chlor 
+
+ 
+
+ 
+
+D) fluor 
+
+ 
+
+38. 
+
+
+Do s bloku PSP nepatří prvek: 
+
+C 
+
+ 
+
+A) baryum 
+
+ 
+
+ 
+
+B) beryllium 
+
+ 
+
+ 
+
+C) cín 
+
+ 
+
+ 
+
+D) sodík 
+
+ 
+
+
+
+ 
+
+39. 
+
+
+Do s bloku PSP patří prvek: 
+
+B 
+
+ 
+
+A) hořčík 
+
+ 
+
+ 
+
+B) olovo 
+
+ 
+
+ 
+
+C) chrom 
+
+ 
+
+ 
+
+D) wolfram 
+
+ 
+
+
+
+ 
+
+40. 
+
+
+Který z uvedených prvků je nekov: 
+
+A 
+
+ 
+
+A) jod 
+
+ 
+
+ 
+
+B) vanad 
+
+ 
+
+ 
+
+C) molybden 
+
+ 
+
+ 
+
+D) mangan 
+
+ 
+
+
+
+ 
+
+ 
+
+
+41. 
+
+
+Do p bloku PSP nepatří prvek: 
+
+D 
+
+ 
+
+A) křemík 
+
+ 
+
+ 
+
+B) fosfor 
+
+ 
+
+ 
+
+C) antimon 
+
+ 
+
+ 
+
+D) vanad 
+
+ 
+
+
+
+ 
+
+42. 
+
+
+Do d bloku PSP patří prvek: 
+
+D 
+
+ 
+
+A) draslík 
+
+ 
+
+ 
+
+B) dusík 
+
+ 
+
+ 
+
+C) olovo 
+
+ 
+
+ 
+
+D) kobalt 
+
+ 
+
+
+
+ 
+
+43. 
+
+
+Který z uvedených prvků je kov: 
+
+D 
+
+ 
+
+A) argon 
+
+ 
+
+ 
+
+B) křemík 
+
+ 
+
+ 
+
+C) síra 
+
+ 
+
+ 
+
+D) cesium 
+
+ 
+
+
+
+ 
+
+44. 
+
+
+Rozhodněte, které jsou valenční orbitaly prvků 3. periody: 
+
+A 
+
+ 
+
+A) 3s 3p 
+
+ 
+
+ 
+
+B) 3s 3p 3d 
+
+ 
+
+ 
+
+C) 4s 3d 
+
+ 
+
+ 
+
+D) pouze 3p 
+
+ 
+
+
+
+ 
+
+45. 
+
+
+Elektronová konfigurace 1s22s12p3 odpovídá: 
+
+B 
+
+ 
+
+A) atomu uhlíku v základním stavu 
+
+ 
+
+ 
+
+B) atomu uhlík v excitovaném stavu 
+
+ 
+
+ 
+
+C) karbidovému aniontu 
+
+ 
+
+ 
+
+D) neodpovídá atomu uhlíku 
+
+ 
+
+
+
+ 
+
+46. 
+
+
+Ve 2. periodě PSP je celkem: 
+
+B 
+
+ 
+
+A) 18 prvků 
+
+ 
+
+ 
+
+B) 8 prvků 
+
+ 
+
+ 
+
+C) 6 prvků 
+
+ 
+
+ 
+
+D) 15 prvků 
+
+ 
+
+
+
+ 
+
+47. 
+
+
+Do stabilní konfigurace nejbližšího vzácného plynu chybí atomu síry: 
+
+A 
+
+ 
+
+A) 2 elektrony 
+
+ 
+
+ 
+
+B) 6 elektronů 
+
+ 
+
+ 
+
+C) 3 elektrony 
+
+ 
+
+ 
+
+D) má stabilní konfiguraci 
+
+ 
+
+
+
+ 
+
+ 
+
+
+48. 
+
+
+Rozhodněte, které z uvedených tvrzení je nesprávné: 
+
+C 
+
+ 
+
+A) dusík patří do skupiny pentel 
+
+ 
+
+ 
+
+B) síra je prvek 16. skupiny 
+
+ 
+
+ 
+
+C) bor patří mezi chalkogeny 
+
+ 
+
+ 
+
+D) chlor je prvkem 17. skupiny 
+
+ 
+
+
+
+ 
+
+49. 
+
+
+Určete typ vazby mezi sírou a kyslíkem v molekule oxidu siřičitého: 
+
+B 
+
+ 
+
+A) iontová vazba 
+
+ 
+
+ 
+
+B) polární kovalentní vazba 
+
+ 
+
+ 
+
+C) nepolární kovalentní vazba 
+
+ 
+
+ 
+
+D) donor-akceptorová vazba 
+
+ 
+
+
+
+ 
+
+50. 
+
+
+Rozhodněte, která sloučenina má iontový charakter: 
+
+B 
+
+ 
+
+A) sulfan 
+
+ 
+
+ 
+
+B) jodid sodný 
+
+ 
+
+ 
+
+C) oxid sírový 
+
+ 
+
+ 
+
+D) oxid dusnatý 
+
+ 
+
+
+
+ 
+
+51. 
+
+
+Pro polární kovalentní vazbu je charakteristický rozdíl elektronegativit .: 
+
+C 
+
+ 
+
+A) . 0,4 
+
+ 
+
+ 
+
+B) . 1,7 
+
+ 
+
+ 
+
+C) . 0,4; 1,7 . 
+
+ 
+
+ 
+
+D) není podstatný 
+
+ 
+
+
+
+ 
+
+52. 
+
+
+Stejné prostorové uspořádání jako molekula BCl3 má molekula: 
+
+C 
+
+ 
+
+A) SiCl4 
+
+ 
+
+ 
+
+B) BeCl2 
+
+ 
+
+ 
+
+C) SO3 
+
+ 
+
+ 
+
+D) PCl5 
+
+ 
+
+
+
+ 
+
+53. 
+
+
+Funkční vzorec dusičnanu amonného je: 
+
+D 
+
+ 
+
+A) NH3NO3 
+
+ 
+
+ 
+
+B) H4N2O3 
+
+ 
+
+ 
+
+C) NH2NO2 
+
+ 
+
+ 
+
+D) NH4NO3 
+
+ 
+
+
+
+ 
+
+54. 
+
+
+Stechiometrický vzorec dusičnanu amonného je: 
+
+C 
+
+ 
+
+A) NH4NO3 
+
+ 
+
+ 
+
+B) NH3NO2 
+
+ 
+
+ 
+
+C) H4N2O3 
+
+ 
+
+ 
+
+D) H2N2O2 
+
+ 
+
+
+
+ 
+
+
+55. 
+
+
+Mezi molekulami H2O v kapalném a pevném skupenství se vyskytují: 
+
+A 
+
+ 
+
+A) vodíkové můstky 
+
+ 
+
+ 
+
+B) kovalentní vazby 
+
+ 
+
+ 
+
+C) koordinační vazby 
+
+ 
+
+ 
+
+D) iontová vazba 
+
+ 
+
+
+
+ 
+
+56. 
+
+
+Trojná vazba je tvořena: 
+
+A 
+
+ 
+
+A) 1 vazbou . a 2 vazbami . 
+
+ 
+
+ 
+
+B) 2 vazbami . a 1 vazbou . 
+
+ 
+
+ 
+
+C) 3 vazbami . 
+
+ 
+
+ 
+
+D) 3 vazbami . 
+
+ 
+
+
+
+ 
+
+57. 
+
+
+Oblast maximálního výskytu elektronů u vazby . je: 
+
+B 
+
+ 
+
+A) mimo spojnici jader 
+
+ 
+
+ 
+
+B) na spojnici jader 
+
+ 
+
+ 
+
+C) splyne s jádrem elektronegativního prvku 
+
+ 
+
+ 
+
+D) v elektronovém obalu elektropozitivnějšího atomu 
+
+ 
+
+
+
+ 
+
+58. 
+
+
+Označte tvrzení, které nejlépe vyjadřuje pojem hybridizace: 
+
+D 
+
+ 
+
+A) vznik koordinační sloučeniny tvaru tetraedru 
+
+ 
+
+ 
+
+B) vznik iontů s elektronovou konfigurací vzácného plynu 
+
+ 
+
+ 
+
+C) vznik molekulových orbitalů 
+
+ 
+
+ 
+
+D) sjednocení atomových orbitalů za vzniku energeticky a tvarově shodných orbitalů 
+
+ 
+
+
+
+ 
+
+59. 
+
+
+Hybridizace SP3 vzniká sjednocením: 
+
+A 
+
+ 
+
+A) 1 orbitalu s a 3 orbitalů p 
+
+ 
+
+ 
+
+B) 1 orbitalu s a 1 orbitalu p 
+
+ 
+
+ 
+
+C) 3 orbitalů s a 1 orbitalu p 
+
+ 
+
+ 
+
+D) 3 orbitalů s a 3 orbitalů p 
+
+ 
+
+
+
+ 
+
+60. 
+
+
+Prostorové uspořádání SP2 hybridizace je: 
+
+C 
+
+ 
+
+A) lineární 
+
+ 
+
+ 
+
+B) tetraedrické 
+
+ 
+
+ 
+
+C) plošné - pravidelný rovnostranný trojúhelník 
+
+ 
+
+ 
+
+D) jehlan 
+
+ 
+
+
+
+ 
+
+61. 
+
+
+Který z uvedených prvků nevytváří kovovou vazbu: 
+
+D 
+
+ 
+
+A) sodík 
+
+ 
+
+ 
+
+B) vápník 
+
+ 
+
+ 
+
+C) železo 
+
+ 
+
+ 
+
+D) chlor 
+
+ 
+
+
+
+ 
+
+
+62. 
+
+
+Mezi slabé vazebné interakce patří: 
+
+B 
+
+ 
+
+A) iontová vazba 
+
+ 
+
+ 
+
+B) van der Waalsovy síly 
+
+ 
+
+ 
+
+C) kovová vazba 
+
+ 
+
+ 
+
+D) kovalentní vazba 
+
+ 
+
+
+
+ 
+
+63. 
+
+
+Kterou z uvedených vlastností se nevyznačují iontové sloučeniny: 
+
+B 
+
+ 
+
+A) vysoká teplota tání 
+
+ 
+
+ 
+
+B) rozpustnost v nepolárních rozpouštědlech 
+
+ 
+
+ 
+
+C) tavenina vede elektrický proud 
+
+ 
+
+ 
+
+D) roztoky jsou elektricky vodivé 
+
+ 
+
+
+
+ 
+
+64. 
+
+
+Z uvedených iontů je pro lidský organismus toxický: 
+
+B 
+
+ 
+
+A) Cl- 
+
+ 
+
+ 
+
+B) CN- 
+
+ 
+
+ 
+
+C) .
+3HCO
+
+ 
+
+ 
+
+D) .24HPO
+
+ 
+
+
+
+ 
+
+65. 
+
+
+Který z uvedených prvků netvoří dvouatomové molekuly: 
+
+D 
+
+ 
+
+A) chlor 
+
+ 
+
+ 
+
+B) kyslík 
+
+ 
+
+ 
+
+C) vodík 
+
+ 
+
+ 
+
+D) helium 
+
+ 
+
+
+
+ 
+
+66. 
+
+
+Koordinační číslo udává: 
+
+B 
+
+ 
+
+A) oxidační číslo centrálního atomu koordinační částice 
+
+ 
+
+ 
+
+B) počet atomů vázaných donor-akceptorovou vazbou na centrální atom koordinační 
+částice 
+
+ 
+
+ 
+
+C) počet aniontů vázaných na koordinační částici 
+
+ 
+
+ 
+
+D) počet molekul H2O vázaných ve sloučenině 
+
+ 
+
+
+
+ 
+
+67. 
+
+
+Koordinační číslo železa ve sloučenině K3.Fe(CN)6. je: 
+
+B 
+
+ 
+
+A) III 
+
+ 
+
+ 
+
+B) VI 
+
+ 
+
+ 
+
+C) II 
+
+ 
+
+ 
+
+D) 0 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+68. 
+
+
+Označte amfoterní oxid: 
+
+A 
+
+ 
+
+A) Al2O3 
+
+ 
+
+ 
+
+B) N2O3 
+
+ 
+
+ 
+
+C) Na2O 
+
+ 
+
+ 
+
+D) BaO 
+
+ 
+
+
+
+ 
+
+69. 
+
+
+Vyberte sloučeninu, která ve vodě vykazuje kyselou reakci: 
+
+C 
+
+ 
+
+A) chlorid sodný 
+
+ 
+
+ 
+
+B) uhličitan draselný 
+
+ 
+
+ 
+
+C) chlorid amonný 
+
+ 
+
+ 
+
+D) sulfid sodný 
+
+ 
+
+
+
+ 
+
+70. 
+
+
+Vyberte nejsilnější zásadu: 
+
+D 
+
+ 
+
+A) NH4OH 
+
+ 
+
+ 
+
+B) Mg(OH)2 
+
+ 
+
+ 
+
+C) Ca(OH)2 
+
+ 
+
+ 
+
+D) KOH 
+
+ 
+
+
+
+ 
+
+71. 
+
+
+Síla kyseliny je charakterizována: 
+
+C 
+
+ 
+
+A) látkovou koncentrací kyseliny 
+
+ 
+
+ 
+
+B) hmotnostním zlomkem kyseliny 
+
+ 
+
+ 
+
+C) disociační konstantou kyseliny KA 
+
+ 
+
+ 
+
+D) molekulovou hmotností 
+
+ 
+
+
+
+ 
+
+72. 
+
+
+Který z uvedených oxidů nemá kyselinotvorné schopnosti: 
+
+B 
+
+ 
+
+A) SO2 
+
+ 
+
+ 
+
+B) CaO 
+
+ 
+
+ 
+
+C) P4O10 
+
+ 
+
+ 
+
+D) Cl2O7 
+
+ 
+
+
+
+ 
+
+73. 
+
+
+Vyberte dvojici, která není konjugovaným párem ve smyslu Brönstedovy teorie: 
+
+B 
+
+ 
+
+A) NH4+, NH3 
+
+ 
+
+ 
+
+B) HCl, H. 
+
+ 
+
+ 
+
+C) HSO4-, SO42- 
+
+ 
+
+ 
+
+D) H2O, H3O. 
+
+ 
+
+
+
+ 
+
+74. 
+
+
+Která z uvedených kyselin je nejslabší kyselinou: 
+
+A 
+
+ 
+
+A) kyselina chlorná 
+
+ 
+
+ 
+
+B) kyselina chloritá 
+
+ 
+
+ 
+
+C) kyselina chlorečná 
+
+ 
+
+ 
+
+D) kyselina chloristá 
+
+ 
+
+
+
+ 
+
+
+75. 
+
+
+Pro vodný roztok uhličitanu sodného platí: 
+
+B 
+
+ 
+
+A) pH . 7 
+
+ 
+
+ 
+
+B) .OH-. . 10-7 mol.dm-3 
+
+ 
+
+ 
+
+C) pH = 7 
+
+ 
+
+ 
+
+D) .H3O+. . 10-7 mol.dm-3 
+
+ 
+
+
+
+ 
+
+76. 
+
+
+Který z uvedených oxidů má zásadotvorné schopnosti: 
+
+A 
+
+ 
+
+A) BaO 
+
+ 
+
+ 
+
+B) CO2 
+
+ 
+
+ 
+
+C) SO3 
+
+ 
+
+ 
+
+D) N2O5 
+
+ 
+
+
+
+ 
+
+77. 
+
+
+Označte látku, která patří mezi neelektrolyty: 
+
+B 
+
+ 
+
+A) kyselina chlorovodíková 
+
+ 
+
+ 
+
+B) jod 
+
+ 
+
+ 
+
+C) kyselina octová 
+
+ 
+
+ 
+
+D) chlorid sodný 
+
+ 
+
+
+
+ 
+
+78. 
+
+
+Zásaditou reakci vodného roztoku uhličitanu sodného způsobuje: 
+
+C 
+
+ 
+
+A) oxid uhličitý uvolněný při rozpouštění soli 
+
+ 
+
+ 
+
+B) autoprotolýza vody 
+
+ 
+
+ 
+
+C) OH- ion vzniklý hydrolýzou aniontu 
+
+ 
+
+ 
+
+D) vznik oxoniového iontu 
+
+ 
+
+
+
+ 
+
+79. 
+
+
+Rozhodněte, která z uvedených kyselin je nejsilnější: 
+
+C 
+
+ 
+
+A) kyselina chlorovodíková 
+
+ 
+
+ 
+
+B) kyselina bromovodíková 
+
+ 
+
+ 
+
+C) kyselina jodovodíková 
+
+ 
+
+ 
+
+D) kyselina fluorovodíková 
+
+ 
+
+
+
+ 
+
+80. 
+
+
+Který z uvedených oxidů nereaguje s vodou: 
+
+A 
+
+ 
+
+A) SiO2 
+
+ 
+
+ 
+
+B) CO2 
+
+ 
+
+ 
+
+C) CaO 
+
+ 
+
+ 
+
+D) Al2O3 
+
+ 
+
+
+
+ 
+
+81. 
+
+
+V uvedené reakci se voda chová jako CO32- + H2O .HCO3- + OH- 
+
+D 
+
+ 
+
+A) oxidační činidlo 
+
+ 
+
+ 
+
+B) neutrální látka 
+
+ 
+
+ 
+
+C) zásada 
+
+ 
+
+ 
+
+D) kyselina 
+
+ 
+
+
+
+ 
+
+
+82. 
+
+
+Který z uvedených roztoků má nejbasičtější vlastnosti: 
+
+A 
+
+ 
+
+A) .OH-. = 1.10-3 mol.dm-3 
+
+ 
+
+ 
+
+B) .H3O+. = 1.10-2 mol.dm-3 
+
+ 
+
+ 
+
+C) pH = 8 
+
+ 
+
+ 
+
+D) pOH = 7 
+
+ 
+
+
+
+ 
+
+83. 
+
+
+Podle Brönstedovy teorie kyselin a zásad je kyselinou látka, která: 
+
+A 
+
+ 
+
+A) odštěpuje proton vodíku 
+
+ 
+
+ 
+
+B) přijímá proton vodíku 
+
+ 
+
+ 
+
+C) přijímá elektron 
+
+ 
+
+ 
+
+D) přijímá elektronový pár 
+
+ 
+
+
+
+ 
+
+84. 
+
+
+Alkalickou reakci má roztok: 
+
+A 
+
+ 
+
+A) Na2CO3 
+
+ 
+
+ 
+
+B) KCl 
+
+ 
+
+ 
+
+C) NH4Cl 
+
+ 
+
+ 
+
+D) Na2SO4 
+
+ 
+
+
+
+ 
+
+85. 
+
+
+Podle Lewisovy teorie kyselin a zásad je jako kyselina označována látka, která má: 
+
+B 
+
+ 
+
+A) volný elektronový pár 
+
+ 
+
+ 
+
+B) vakantní orbital 
+
+ 
+
+ 
+
+C) přebytek elektronů 
+
+ 
+
+ 
+
+D) vodík vázaný polární vazbou na kyslík 
+
+ 
+
+
+
+ 
+
+86. 
+
+
+Rozhodněte, který z uvedených iontů má amfoterní vlastnosti (podle Brönstedovy teorie 
+kyselin a zásad): 
+
+B 
+
+ 
+
+A) NH4+ 
+
+ 
+
+ 
+
+B) HPO42- 
+
+ 
+
+ 
+
+C) Cl- 
+
+ 
+
+ 
+
+D) SO42- 
+
+ 
+
+
+
+ 
+
+87. 
+
+
+Z uvedených sloučenin není Lewisovou bazí: 
+
+D 
+
+ 
+
+A) amoniak 
+
+ 
+
+ 
+
+B) chloridový anion 
+
+ 
+
+ 
+
+C) voda 
+
+ 
+
+ 
+
+D) fluorid boritý 
+
+ 
+
+
+
+ 
+
+88. 
+
+
+Amfoterní oxidy reagují: 
+
+D 
+
+ 
+
+A) pouze s vodou 
+
+ 
+
+ 
+
+B) pouze s hydroxidy 
+
+ 
+
+ 
+
+C) pouze s kyselinami 
+
+ 
+
+ 
+
+D) s kyselinami a hydroxidy 
+
+ 
+
+
+
+
+89. 
+
+
+Tvrzení „Zásady jsou látky, které disociací poskytují OH- anion“ vyjadřuje: 
+
+C 
+
+ 
+
+A) Brönstedova teorie 
+
+ 
+
+ 
+
+B) Lewisova teorie 
+
+ 
+
+ 
+
+C) Arrheniova teorie 
+
+ 
+
+ 
+
+D) tvrzení je nepravdivé 
+
+ 
+
+
+
+ 
+
+90. 
+
+
+Podle hodnoty disociační konstanty KA rozhodněte, která kyselina je nejsilnější: 
+
+C 
+
+ 
+
+A) KA = 1,8.10-5 
+
+ 
+
+ 
+
+B) KA = 5,6.10-10 
+
+ 
+
+ 
+
+C) KA = 6,75.10-4 
+
+ 
+
+ 
+
+D) KA = 3,8.10-8 
+
+ 
+
+
+
+ 
+
+91. 
+
+
+Podle hodnoty pKB rozhodněte, která zásada je nejslabší: 
+
+D 
+
+ 
+
+A) pKB = 4,74 
+
+ 
+
+ 
+
+B) pKB = 5,85 
+
+ 
+
+ 
+
+C) pKB = 3,33 
+
+ 
+
+ 
+
+D) pKB = 9,42 
+
+ 
+
+
+
+ 
+
+92. 
+
+
+Která z uvedených reakcí vyjadřuje autoprotolytickou reakci: 
+
+D 
+
+ 
+
+A) HCl + H2O . H3O+ + Cl- 
+
+ 
+
+ 
+
+B) NH3 + H2O . NH4+ + OH- 
+
+ 
+
+ 
+
+C) S2- + H2O . HS- + OH- 
+
+ 
+
+ 
+
+D) H2O + H2O . H3O+ + OH- 
+
+ 
+
+
+
+ 
+
+93. 
+
+
+Vztah c(H3O+) . c(OH-) platí pro roztoky: 
+
+D 
+
+ 
+
+A) neutrální 
+
+ 
+
+ 
+
+B) alkalické 
+
+ 
+
+ 
+
+C) aprotické 
+
+ 
+
+ 
+
+D) kyselé 
+
+ 
+
+
+
+ 
+
+94. 
+
+
+Vodíkový exponent pH je roven: 
+
+B 
+
+ 
+
+A) záporné hodnotě hmotnosti oxoniového kationtu 
+
+ 
+
+ 
+
+B) záporné hodnotě dekadického logaritmu látkové koncentrace oxoniového kationtu 
+
+ 
+
+ 
+
+C) dekadickému logaritmu látkové koncentrace oxoniového kationtu 
+
+ 
+
+ 
+
+D) záporné hodnotě logaritmu látkové koncentrace hydroxidového iontu 
+
+ 
+
+
+
+ 
+
+95. 
+
+
+Koncentrace H3O+ iontů v čisté vodě je: 
+
+A 
+
+ 
+
+A) 10-7 mol/l 
+
+ 
+
+ 
+
+B) 10-1 mol/l 
+
+ 
+
+ 
+
+C) 10-14 mol/l 
+
+ 
+
+ 
+
+D) 10-5 mol/l 
+
+ 
+
+
+
+ 
+
+
+96. 
+
+
+Vyberte kov s kladným elektrodovým potenciálem: 
+
+C 
+
+ 
+
+A) sodík 
+
+ 
+
+ 
+
+B) železo 
+
+ 
+
+ 
+
+C) měď 
+
+ 
+
+ 
+
+D) hliník 
+
+ 
+
+
+
+ 
+
+97. 
+
+
+Vyberte reakci, která nemá oxidačně-redukční průběh: 
+
+C 
+
+ 
+
+A) Cl2 + 2NaOH . NaCl + NaOCl + H2O 
+
+ 
+
+ 
+
+B) Cu + 4HNO3 . Cu(NO3)2 + 2NO2 + 2H2O 
+
+ 
+
+ 
+
+C) Na2CO3 + 2HCl . 2NaCl + CO2 + H2O 
+
+ 
+
+ 
+
+D) SO2 + 4HI . S + 2I2 + 2H2O 
+
+ 
+
+
+
+ 
+
+98. 
+
+
+Oxidační číslo zinku ve sloučenině Na2.Zn(OH)4. je: 
+
+D 
+
+ 
+
+A) IV 
+
+ 
+
+ 
+
+B) 0 
+
+ 
+
+ 
+
+C) VI 
+
+ 
+
+ 
+
+D) II 
+
+ 
+
+
+
+ 
+
+99. 
+
+
+Reakcí Cu + HNO3 (zředěná) vzniká: 
+
+D 
+
+ 
+
+A) Cu(NO3)2 + H2 
+
+ 
+
+ 
+
+B) CuO + NO + H2O 
+
+ 
+
+ 
+
+C) CuNO3 + H2 
+
+ 
+
+ 
+
+D) Cu(NO3)2 + NO + H2O 
+
+ 
+
+
+
+ 
+
+100. 
+
+
+Určete reakci, při níž dochází k disproporcionaci: 
+
+B 
+
+ 
+
+A) Zn + 2HCl . ZnCl2 + H2 
+
+ 
+
+ 
+
+B) Cl2 + 2KOH . KCl + KClO + H2O 
+
+ 
+
+ 
+
+C) KClO4 . KCl + 2O2 
+
+ 
+
+ 
+
+D) Na2CO3 + 2HCl . 2NaCl + CO2 + H2O 
+
+ 
+
+
+
+ 
+
+101. 
+
+
+Z uvedených sloučenin vyberte oxidační činidlo: 
+
+A 
+
+ 
+
+A) kyselina dusičná 
+
+ 
+
+ 
+
+B) kyselina chlorovodíková 
+
+ 
+
+ 
+
+C) sirovodík 
+
+ 
+
+ 
+
+D) hliník 
+
+ 
+
+
+
+ 
+
+102. 
+
+
+Která z uvedených reakcí neprobíhá: 
+
+A 
+
+ 
+
+A) Ag + HCl . 
+
+ 
+
+ 
+
+B) Zn + HCl . 
+
+ 
+
+ 
+
+C) Na + H2O . 
+
+ 
+
+ 
+
+D) Cu + HNO3 . 
+
+ 
+
+
+
+ 
+
+
+103. 
+
+
+Určete oxidační číslo fosforu ve sloučenině H4P2O7: 
+
+B 
+
+ 
+
+A) II 
+
+ 
+
+ 
+
+B) V 
+
+ 
+
+ 
+
+C) IV 
+
+ 
+
+ 
+
+D) VII 
+
+ 
+
+
+
+ 
+
+104. 
+
+
+Určete, které produkty vznikají reakcí KMnO4 + HCl . 
+
+C 
+
+ 
+
+A) Cl2 + MnO + KCl + H2O 
+
+ 
+
+ 
+
+B) Cl2 + MnO2 + KCl + H2O 
+
+ 
+
+ 
+
+C) Cl2 + MnCl2 + KCl + H2O 
+
+ 
+
+ 
+
+D) MnCl2 + KCl + H2O 
+
+ 
+
+
+
+ 
+
+105. 
+
+
+Oxidační číslo dusíku v amoniaku je: 
+
+B 
+
+ 
+
+A) III 
+
+ 
+
+ 
+
+B) -III 
+
+ 
+
+ 
+
+C) -I 
+
+ 
+
+ 
+
+D) I 
+
+ 
+
+
+
+ 
+
+106. 
+
+
+Z uvedených kovů vyberte ušlechtilý kov: 
+
+A 
+
+ 
+
+A) stříbro 
+
+ 
+
+ 
+
+B) mangan 
+
+ 
+
+ 
+
+C) sodík 
+
+ 
+
+ 
+
+D) vápník 
+
+ 
+
+
+
+ 
+
+107. 
+
+
+Mezi oxidační činidla nepatří: 
+
+D 
+
+ 
+
+A) kyselina chlorná 
+
+ 
+
+ 
+
+B) chlor 
+
+ 
+
+ 
+
+C) oxid manganičitý 
+
+ 
+
+ 
+
+D) sirovodík 
+
+ 
+
+
+
+ 
+
+108. 
+
+
+Při oxidačně-redukčních reakcích dochází mezi reagujícími látkami k: 
+
+B 
+
+ 
+
+A) výměně protonů vodíku 
+
+ 
+
+ 
+
+B) výměně elektronů 
+
+ 
+
+ 
+
+C) výměně alkylu 
+
+ 
+
+ 
+
+D) výměně hydroxidové skupiny 
+
+ 
+
+
+
+ 
+
+109. 
+
+
+Při elektrolýze taveniny NaCl se na katodě vylučuje: 
+
+B 
+
+ 
+
+A) chlor 
+
+ 
+
+ 
+
+B) sodík 
+
+ 
+
+ 
+
+C) sodný kation 
+
+ 
+
+ 
+
+D) NaOH 
+
+ 
+
+
+
+ 
+
+ 
+
+
+110. 
+
+
+Pro elektrochemickou řadu napětí kovů platí: 
+
+A 
+
+ 
+
+A) kov má schopnost redukovat ve vodném roztoku kation kovu s kladnějším 
+elektrodovým potenciálem 
+
+ 
+
+ 
+
+B) kov má schopnost redukovat ve vodném roztoku kation kovu se záporným 
+elektrodovým potenciálem 
+
+ 
+
+ 
+
+C) kov s kladným elektrodovým potenciálem reaguje s kyselinami za současného 
+vyredukování H2 
+
+ 
+
+ 
+
+D) všechny kovy se záporným elektrodovým potenciálem reagují s vodou 
+
+ 
+
+
+
+ 
+
+111. 
+
+
+Oxidační číslo O2 je: 
+
+B 
+
+ 
+
+A) -II 
+
+ 
+
+ 
+
+B) 0 
+
+ 
+
+ 
+
+C) I 
+
+ 
+
+ 
+
+D) II 
+
+ 
+
+
+
+ 
+
+112. 
+
+
+Který z uvedených kovů patří do skupiny neušlechtilých kovů: 
+
+D 
+
+ 
+
+A) Cu 
+
+ 
+
+ 
+
+B) Pt 
+
+ 
+
+ 
+
+C) Ag 
+
+ 
+
+ 
+
+D) Al 
+
+ 
+
+
+
+ 
+
+113. 
+
+
+Který z uvedených prvků má oxidační účinky: 
+
+A 
+
+ 
+
+A) Cl2 
+
+ 
+
+ 
+
+B) Fe 
+
+ 
+
+ 
+
+C) C 
+
+ 
+
+ 
+
+D) H2 
+
+ 
+
+
+
+ 
+
+114. 
+
+
+Který z uvedených prvků má redukční účinky: 
+
+C 
+
+ 
+
+A) F2 
+
+ 
+
+ 
+
+B) O2 
+
+ 
+
+ 
+
+C) Zn 
+
+ 
+
+ 
+
+D) Br2 
+
+ 
+
+
+
+ 
+
+115. 
+
+
+Vyberte kov, který reaguje podle rovnice 2M + 2H2O . 2MOH + H2: 
+
+B 
+
+ 
+
+A) Al 
+
+ 
+
+ 
+
+B) Na 
+
+ 
+
+ 
+
+C) Fe 
+
+ 
+
+ 
+
+D) Pt 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+116. 
+
+
+Označte kov, který reaguje se zředěnou kyselinou chlorovodíkovou: 
+
+D 
+
+ 
+
+A) měď 
+
+ 
+
+ 
+
+B) platina 
+
+ 
+
+ 
+
+C) stříbro 
+
+ 
+
+ 
+
+D) hořčík 
+
+ 
+
+
+
+ 
+
+117. 
+
+
+Co platí pro redukční činidla: 
+
+C 
+
+ 
+
+A) v průběhu reakce přijímají elektrony 
+
+ 
+
+ 
+
+B) v průběhu reakce se redukují 
+
+ 
+
+ 
+
+C) mají nízké hodnoty standardních elektrodových potenciálů 
+
+ 
+
+ 
+
+D) způsobují oxidaci jiné látky 
+
+ 
+
+
+
+ 
+
+118. 
+
+
+Oxidaci můžeme charakterizovat jako: 
+
+A 
+
+ 
+
+A) ztrátu elektronů 
+
+ 
+
+ 
+
+B) přijetí elektronů 
+
+ 
+
+ 
+
+C) hydrogenaci 
+
+ 
+
+ 
+
+D) dehydrataci 
+
+ 
+
+
+
+ 
+
+119. 
+
+
+V reakci Pb + 4HNO3 . Pb(NO3)2 + 2NO2 + 2H2O změnily oxidační čísla: 
+
+B 
+
+ 
+
+A) pouze olovo 
+
+ 
+
+ 
+
+B) olovo a dusík 
+
+ 
+
+ 
+
+C) olovo, dusík, vodík 
+
+ 
+
+ 
+
+D) žádný prvek 
+
+ 
+
+
+
+ 
+
+120. 
+
+
+Určete, kolik molů kyseliny dusičné je třeba v následující oxidačně-redukční rovnici: 
+
+Cu + HNO3 . Cu(NO3)2 + NO + H2O 
+
+D 
+
+ 
+
+A) 2 
+
+ 
+
+ 
+
+B) 5 
+
+ 
+
+ 
+
+C) 3 
+
+ 
+
+ 
+
+D) 8 
+
+ 
+
+
+
+ 
+
+121. 
+
+
+Pozitivní katalyzátor ovlivňuje průběh chemické reakce tím, že: 
+
+B 
+
+ 
+
+A) dodá reakci potřebnou aktivační energii 
+
+ 
+
+ 
+
+B) snižuje hodnotu aktivační energie 
+
+ 
+
+ 
+
+C) snižuje hodnotu rovnovážné konstanty 
+
+ 
+
+ 
+
+D) podílí se na rozpouštění výchozích látek 
+
+ 
+
+
+
+ 
+
+122. 
+
+
+Uvedená reakce NH3 + HCl . NH4Cl představuje: 
+
+B 
+
+ 
+
+A) oxidačně-redukční reakci 
+
+ 
+
+ 
+
+B) acidobazickou reakci 
+
+ 
+
+ 
+
+C) srážecí reakci 
+
+ 
+
+ 
+
+D) komplexotvornou reakci 
+
+ 
+
+
+
+
+123. 
+
+
+Vyberte nesprávné tvrzení o rovnovážném stavu: 
+
+C 
+
+ 
+
+A) chemická rovnováha je stav dynamický, chemické reakce probíhají oběma směry 
+
+ 
+
+ 
+
+B) rovnovážný stav je charakterizován nulovou změnou Gibsovy energie 
+(.G=0) 
+
+ 
+
+ 
+
+C) rovnovážná konstanta reakce (Kc) závisí na koncentraci složek 
+
+ 
+
+ 
+
+D) změna tlaku ovlivňuje rovnovážné složení pouze u reakcí, při nichž se mění látková 
+množství plynných složek 
+
+ 
+
+
+
+ 
+
+124. 
+
+
+Má-li soustava vysokou hodnotu rovnovážné konstanty, znamená to: 
+
+B 
+
+ 
+
+A) reakce probíhá vratně velkou rychlostí 
+
+ 
+
+ 
+
+B) v soustavě existují prakticky pouze produkty 
+
+ 
+
+ 
+
+C) v soustavě existují prakticky pouze výchozí látky 
+
+ 
+
+ 
+
+D) v soustavě existují výchozí látky a produkty ve stejné koncentraci 
+
+ 
+
+
+
+ 
+
+125. 
+
+
+Exotermické reakce jsou charakterizovány: 
+
+A 
+
+ 
+
+A) zápornou změnou entalpie (.H . 0) 
+
+ 
+
+ 
+
+B) kladnou změnou entalpie (.H . 0) 
+
+ 
+
+ 
+
+C) zápornou změnou entropie (.S . 0) 
+
+ 
+
+ 
+
+D) kladnou změnou entropie (.S . 0) 
+
+ 
+
+
+
+ 
+
+126. 
+
+
+Vyčíslete chemickou rovnici Na2B4O7 + H2SO4 + H2O . H3BO3 + Na2SO4: 
+
+A 
+
+ 
+
+A) 1, 1, 5 . 4, 1 
+
+ 
+
+ 
+
+B) 2, 1, 4 . 5, 2 
+
+ 
+
+ 
+
+C) 1, 1, 4 . 5, 1 
+
+ 
+
+ 
+
+D) 2, 2, 1 . 4, 1 
+
+ 
+
+
+
+ 
+
+127. 
+
+
+„Reakční teplo celkové reakce je stejné, proběhne-li reakce najednou nebo řadou dílčích 
+reakcí“ vyjadřuje: 
+
+B 
+
+ 
+
+A) první termochemický zákon 
+
+ 
+
+ 
+
+B) Hessův zákon 
+
+ 
+
+ 
+
+C) Gulberg-Waagův zákon 
+
+ 
+
+ 
+
+D) Lavoisierův-Laplaceův zákon 
+
+ 
+
+
+
+ 
+
+128. 
+
+
+Reakční teplo chemické reakce je udáno: 
+
+B 
+
+ 
+
+A) změnou entropie 
+
+ 
+
+ 
+
+B) změnou enthalpie 
+
+ 
+
+ 
+
+C) změnou Gibsovy energie 
+
+ 
+
+ 
+
+D) rovnovážnou konstantou 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+129. 
+
+
+Rovnovážný stav chemické reakce nelze ovlivnit: 
+
+C 
+
+ 
+
+A) odebráním produktu 
+
+ 
+
+ 
+
+B) přidáním výchozí látky 
+
+ 
+
+ 
+
+C) katalyzátory 
+
+ 
+
+ 
+
+D) změnou teploty 
+
+ 
+
+
+
+ 
+
+130. 
+
+
+Suspense je příkladem disperzní soustavy: 
+
+C 
+
+ 
+
+A) koloidní 
+
+ 
+
+ 
+
+B) homogenní 
+
+ 
+
+ 
+
+C) heterogenní 
+
+ 
+
+ 
+
+D) pseudo-homogenní 
+
+ 
+
+
+
+ 
+
+131. 
+
+
+Disociační konstanta KA kyseliny octové je dána vztahem: 
+
+B 
+
+ 
+
+A) ..
+......OHCOOCHCOOHCH333
+
+ 
+
+ 
+
+B) ....
+..COOHCHOHCOOCH333
+..
+
+ 
+
+ 
+
+C) .CH3COO-. . .CH3COOH. 
+
+ 
+
+ 
+
+D) .CH3COO-. . .H3O+. 
+
+ 
+
+
+
+ 
+
+132. 
+
+
+Reakcí Cl2 s NaOH vzniká: 
+
+C 
+
+ 
+
+A) NaCl 
+
+ 
+
+ 
+
+B) NaCl+H2O 
+
+ 
+
+ 
+
+C) NaOCl+NaCl+H2O 
+
+ 
+
+ 
+
+D) NaOCl+H2O 
+
+ 
+
+
+
+ 
+
+133. 
+
+
+Který vzácný plyn má ve vzduchu největší zastoupení: 
+
+D 
+
+ 
+
+A) helium 
+
+ 
+
+ 
+
+B) neon 
+
+ 
+
+ 
+
+C) radon 
+
+ 
+
+ 
+
+D) argon 
+
+ 
+
+
+
+ 
+
+134. 
+
+
+Který z naznačených dějů nevede k přípravě vodíku: 
+
+D 
+
+ 
+
+A) Zn + HCl . 
+
+ 
+
+ 
+
+B) Na + H2O . 
+
+ 
+
+ 
+
+C) NaOH + Zn + H2O . 
+
+ 
+
+ 
+
+D) Cu + HCl . 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+135. 
+
+
+Binární sloučenina fosforu s vodíkem má vzorec: 
+
+C 
+
+ 
+
+A) PH5 
+
+ 
+
+ 
+
+B) PH2 
+
+ 
+
+ 
+
+C) PH3 
+
+ 
+
+ 
+
+D) PH4 
+
+ 
+
+
+
+ 
+
+136. 
+
+
+Které tvrzení o halogenech je nesprávné: 
+
+B 
+
+ 
+
+A) jsou velmi reaktivní 
+
+ 
+
+ 
+
+B) reaktivita roste se zvyšujícím se protonovým číslem 
+
+ 
+
+ 
+
+C) fluor a chlor jsou plyny, brom kapalina, jod pevná látka 
+
+ 
+
+ 
+
+D) tvoří dvouatomové molekuly 
+
+ 
+
+
+
+ 
+
+137. 
+
+
+Alkalické kovy se vyznačují: 
+
+C 
+
+ 
+
+A) velkou elektronegativitou 
+
+ 
+
+ 
+
+B) malými atomovými poloměry 
+
+ 
+
+ 
+
+C) jsou měkké 
+
+ 
+
+ 
+
+D) malou reaktivitou 
+
+ 
+
+
+
+ 
+
+138. 
+
+
+Sloučenina označovaná jako „jedlá soda“ je chemicky: 
+
+B 
+
+ 
+
+A) Na2CO3 
+
+ 
+
+ 
+
+B) NaHCO3 
+
+ 
+
+ 
+
+C) Na2SO4 
+
+ 
+
+ 
+
+D) NaHSO4 
+
+ 
+
+
+
+ 
+
+139. 
+
+
+Který z prvků II. A skupiny se nejvíce blíží svými chemickými vlastnostmi hliníku: 
+
+C 
+
+ 
+
+A) baryum 
+
+ 
+
+ 
+
+B) vápník 
+
+ 
+
+ 
+
+C) beryllium 
+
+ 
+
+ 
+
+D) hořčík 
+
+ 
+
+
+
+ 
+
+140. 
+
+
+Který z uvedených prvků je součástí chlorofylu: 
+
+D 
+
+ 
+
+A) vápník 
+
+ 
+
+ 
+
+B) sodík 
+
+ 
+
+ 
+
+C) železo 
+
+ 
+
+ 
+
+D) hořčík 
+
+ 
+
+
+
+ 
+
+141. 
+
+
+Příčinou vysoké teploty varu vody (100 °C) je: 
+
+B 
+
+ 
+
+A) dipolový moment molekuly vody 
+
+ 
+
+ 
+
+B) vodíkové můstky mezi molekulami vody 
+
+ 
+
+ 
+
+C) molekulová hmotnost vody .M(H2O) = 18 g.mol-1. 
+
+ 
+
+ 
+
+D) polární vazby H - O 
+
+ 
+
+
+
+ 
+
+ 
+
+
+142. 
+
+
+Diamant a grafit jsou alotropické modifikace: 
+
+B 
+
+ 
+
+A) křemíku 
+
+ 
+
+ 
+
+B) uhlíku 
+
+ 
+
+ 
+
+C) síry 
+
+ 
+
+ 
+
+D) oxidu křemičitého 
+
+ 
+
+
+
+ 
+
+143. 
+
+
+Tepelným rozkladem uhličitanu vápenatého vzniká: 
+
+B 
+
+ 
+
+A) Ca + CO2 
+
+ 
+
+ 
+
+B) CaO + CO2 
+
+ 
+
+ 
+
+C) CaO + C 
+
+ 
+
+ 
+
+D) CaO + CO 
+
+ 
+
+
+
+ 
+
+144. 
+
+
+Reakcí Na2SO3 + HCl vzniká: 
+
+B 
+
+ 
+
+A) NaCl + SO3 + H2O 
+
+ 
+
+ 
+
+B) NaCl + SO2 + H2O 
+
+ 
+
+ 
+
+C) Na2SO4 + Cl2 + H2O 
+
+ 
+
+ 
+
+D) NaHSO4 + NaCl + H2O 
+
+ 
+
+
+
+ 
+
+145. 
+
+
+Která z uvedených sloučenin fosforu má redukční účinky: 
+
+B 
+
+ 
+
+A) H3PO4 
+
+ 
+
+ 
+
+B) H3PO2 
+
+ 
+
+ 
+
+C) P2O5 
+
+ 
+
+ 
+
+D) Ca3(PO4)2 
+
+ 
+
+
+
+ 
+
+146. 
+
+
+Hydrolýzou chloridu fosforečného vzniká: 
+
+D 
+
+ 
+
+A) H3PO4 + PCl3 + H2O 
+
+ 
+
+ 
+
+B) HCl + H2O + P2O3 
+
+ 
+
+ 
+
+C) H3PO3 + HCl 
+
+ 
+
+ 
+
+D) H3PO4 + HCl 
+
+ 
+
+
+
+ 
+
+147. 
+
+
+Amalgamy jsou: 
+
+B 
+
+ 
+
+A) halogenidy rtuti 
+
+ 
+
+ 
+
+B) slitiny kovu a rtuti 
+
+ 
+
+ 
+
+C) slitiny mědi a hliníku 
+
+ 
+
+ 
+
+D) slitiny mědi a stříbra 
+
+ 
+
+
+
+ 
+
+148. 
+
+
+Oxidační účinky manganistanu draselného jsou nejsilnější: 
+
+A 
+
+ 
+
+A) v silně kyselém prostředí 
+
+ 
+
+ 
+
+B) v neutrálním prostředí 
+
+ 
+
+ 
+
+C) v alkalickém prostředí 
+
+ 
+
+ 
+
+D) nemá oxidační účinky 
+
+ 
+
+
+
+ 
+
+ 
+
+
+149. 
+
+
+Kterému triviálnímu názvu neodpovídá chemický vzorec: 
+
+D 
+
+ 
+
+A) modrá skalice CuSO4.5H2O 
+
+ 
+
+ 
+
+B) pálené vápno CaO 
+
+ 
+
+ 
+
+C) jedlá soda NaHCO3 
+
+ 
+
+ 
+
+D) vápenec MgCO3 
+
+ 
+
+
+
+ 
+
+150. 
+
+
+Vyberte chybně pojmenovanou sloučeninu: 
+
+B 
+
+ 
+
+A) Na2SO3 siřičitan sodný 
+
+ 
+
+ 
+
+B) Ba(NO3)2 dusitan barnatý 
+
+ 
+
+ 
+
+C) KMnO4 manganistan draselný 
+
+ 
+
+ 
+
+D) K2CrO4 chroman draselný 
+
+ 
+
+
+
+ 
+
+151. 
+
+
+Určete chybně pojmenovaný oxid: 
+
+B 
+
+ 
+
+A) TiO2 - oxid titaničitý 
+
+ 
+
+ 
+
+B) SnO - oxid cinový 
+
+ 
+
+ 
+
+C) Al2O3 - oxid hlinitý 
+
+ 
+
+ 
+
+D) Sb2O5 – oxid antimoničný 
+
+ 
+
+
+
+ 
+
+152. 
+
+
+Správný vzorec hexakyanoželeznatanu sodného je: 
+
+D 
+
+ 
+
+A) Na3.Fe(CN)6. 
+
+ 
+
+ 
+
+B) FeNa4(CN)6 
+
+ 
+
+ 
+
+C) Na4.(CN)6Fe. 
+
+ 
+
+ 
+
+D) Na4.Fe(CN)6. 
+
+ 
+
+
+
+ 
+
+153. 
+
+
+Určete chybný vzorec sloučeniny: 
+
+D 
+
+ 
+
+A) dusičnan draselný KNO3 
+
+ 
+
+ 
+
+B) síran sodný Na2SO4 
+
+ 
+
+ 
+
+C) uhličitan vápenatý CaCO3 
+
+ 
+
+ 
+
+D) fosforečnan lithný Li2PO4 
+
+ 
+
+
+
+ 
+
+154. 
+
+
+Vzorec dihydrogenfosforečnanu amonného je: 
+
+B 
+
+ 
+
+A) NH4HPO3 
+
+ 
+
+ 
+
+B) NH4H2PO4 
+
+ 
+
+ 
+
+C) NH2H2PO4 
+
+ 
+
+ 
+
+D) NH3H2PO4 
+
+ 
+
+
+
+ 
+
+155. 
+
+
+Který vzorec má chybný název: 
+
+D 
+
+ 
+
+A) AlH3 - alan 
+
+ 
+
+ 
+
+B) K2Cr2O7 - dichroman draselný 
+
+ 
+
+ 
+
+C) NaClO - chlornan sodný 
+
+ 
+
+ 
+
+D) NaHS - sulfid sodný 
+
+ 
+
+
+
+ 
+
+
+156. 
+
+
+Název sloučeniny CaH2 je: 
+
+B 
+
+ 
+
+A) hydrid vápníku 
+
+ 
+
+ 
+
+B) hydrid vápenatý 
+
+ 
+
+ 
+
+C) hydrogen vápenatý 
+
+ 
+
+ 
+
+D) hydrokalcium 
+
+ 
+
+
+
+ 
+
+157. 
+
+
+Označte chybně pojmenovaný ion: 
+
+D 
+
+ 
+
+A) MnO4- manganistanový anion 
+
+ 
+
+ 
+
+B) NO2- dusitanový anion 
+
+ 
+
+ 
+
+C) S2O32- thiosíranový anion 
+
+ 
+
+ 
+
+D) ClO3- chloristanový anion 
+
+ 
+
+
+
+ 
+
+158. 
+
+
+Vzorec H2SO3 patří kyselině: 
+
+C 
+
+ 
+
+A) sulfoxylové 
+
+ 
+
+ 
+
+B) thiosírové 
+
+ 
+
+ 
+
+C) siřičité 
+
+ 
+
+ 
+
+D) sírové 
+
+ 
+
+
+
+ 
+
+159. 
+
+
+Určete, kterému symbolu prvku je přiřazen chybný název: 
+
+D 
+
+ 
+
+A) Tl thalium 
+
+ 
+
+ 
+
+B) Sn cín 
+
+ 
+
+ 
+
+C) Si křemík 
+
+ 
+
+ 
+
+D) Ra radon 
+
+ 
+
+
+
+ 
+
+160. 
+
+
+Který symbol prvku má chybný název: 
+
+A 
+
+ 
+
+A) Ar arzen 
+
+ 
+
+ 
+
+B) Mg hořčík 
+
+ 
+
+ 
+
+C) Pb olovo 
+
+ 
+
+ 
+
+D) Pt platina 
+
+ 
+
+
+
+ 
+
+161. 
+
+
+Který prvek má chybný symbol: 
+
+A 
+
+ 
+
+A) měď Me 
+
+ 
+
+ 
+
+B) titan Ti 
+
+ 
+
+ 
+
+C) sodík Na 
+
+ 
+
+ 
+
+D) stroncium Sr 
+
+ 
+
+
+
+ 
+
+162. 
+
+
+Vzorec kyseliny chlorné je: 
+
+A 
+
+ 
+
+A) HClO 
+
+ 
+
+ 
+
+B) HClO4 
+
+ 
+
+ 
+
+C) HCl 
+
+ 
+
+ 
+
+D) HClO3 
+
+ 
+
+
+
+ 
+
+
+163. 
+
+
+Jednotkou látkového množství je: 
+
+B 
+
+ 
+
+A) mol.dm-3 
+
+ 
+
+ 
+
+B) mol 
+
+ 
+
+ 
+
+C) mol.kg-1 
+
+ 
+
+ 
+
+D) g.mol-1 
+
+ 
+
+
+
+ 
+
+164. 
+
+
+g.mol-1 je jednotka: 
+
+B 
+
+ 
+
+A) látkového množství 
+
+ 
+
+ 
+
+B) molární hmotnosti 
+
+ 
+
+ 
+
+C) látkové koncentrace 
+
+ 
+
+ 
+
+D) hmotnostní koncentrace 
+
+ 
+
+
+
+ 
+
+165. 
+
+
+Avogardova konstanta NA vyjadřuje: 
+
+B 
+
+ 
+
+A) počet částic v kg sloučeniny molekulového složení 
+
+ 
+
+ 
+
+B) počet částic připadajících na 1 mol látky 
+
+ 
+
+ 
+
+C) objem plynných látek látkového množství 1 mol 
+
+ 
+
+ 
+
+D) počet částic v objemu 1 m3 
+
+ 
+
+
+
+ 
+
+166. 
+
+
+Látková koncentrace c látky B se rovná: 
+
+C 
+
+ 
+
+A) 
+VBmc)(
+.
+
+ 
+
+ 
+
+B) 
+)(BnVc.
+
+ 
+
+ 
+
+C) 
+VBnc)(
+.
+
+ 
+
+ 
+
+D) 
+)(
+)(
+BmBnc.
+
+ 
+
+
+
+ 
+
+167. 
+
+
+Jakému látkovému množství odpovídá 800 g chloridu stříbrného: 
+.M(AgCl) = 143,3 g.mol-1. 
+
+B 
+
+ 
+
+A) 2,8 mol 
+
+ 
+
+ 
+
+B) 5,6 mol 
+
+ 
+
+ 
+
+C) 0,2 mol 
+
+ 
+
+ 
+
+D) 4,4 mol 
+
+ 
+
+
+
+ 
+
+168. 
+
+
+Jaký objem zaujímá za standardních podmínek 50 g vodíku (H2): 
+.Ar(H) = 1,008. 
+
+C 
+
+ 
+
+A) 1111 dm3 
+
+ 
+
+ 
+
+B) 11,2 dm3 
+
+ 
+
+ 
+
+C) 555 dm3 
+
+ 
+
+ 
+
+D) 5,55 dm3 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+169. 
+
+
+Kolik g uhlíku je v 10 dm3 oxidu uhličitého: 
+.M(C) = 12 g.mol-1; M(O) = 16 g.mol-1. 
+
+C 
+
+ 
+
+A) 1,2 g 
+
+ 
+
+ 
+
+B) 2,8 g 
+
+ 
+
+ 
+
+C) 5,36 g 
+
+ 
+
+ 
+
+D) 6,25 g 
+
+ 
+
+
+
+ 
+
+170. 
+
+
+Vypočítejte procentuální složení roztoku uhličitanu draselného, který vznikl rozpuštěním 
+7 g této sloučeniny v 25 ml vody. 
+
+B 
+
+ 
+
+A) 14 % 
+
+ 
+
+ 
+
+B) 22 % 
+
+ 
+
+ 
+
+C) 28 % 
+
+ 
+
+ 
+
+D) 36 % 
+
+ 
+
+
+
+ 
+
+171. 
+
+
+Jaké je složení roztoku chloridu sodného vyjádřené v hmotnostních procentech, jestliže 
+bylo 250 g roztoku připraveno rozpuštěním 15 g sloučeniny v patřičném objemu vody? 
+
+D 
+
+ 
+
+A) 8,6 % 
+
+ 
+
+ 
+
+B) 12,6 % 
+
+ 
+
+ 
+
+C) 5,7 % 
+
+ 
+
+ 
+
+D) 6,0 % 
+
+ 
+
+
+
+ 
+
+172. 
+
+
+Jaké je složení roztoku chloridu sodného vyjádřené v hmotnostních procentech, jestliže 
+bylo 250 ml roztoku připraveno rozpuštěním 15 g sloučeniny v patřičném objemu vody? 
+(.=1,04 g.cm-3) 
+
+B 
+
+ 
+
+A) 5,5 % 
+
+ 
+
+ 
+
+B) 5,8 % 
+
+ 
+
+ 
+
+C) 6,0 % 
+
+ 
+
+ 
+
+D) 7,2 % 
+
+ 
+
+
+
+ 
+
+173. 
+
+
+Potřebujete připravit 560 ml 12% roztoku chloridu sodného. Jaké množství sloučeniny 
+použijete? (.=1,0857 g.cm-3) 
+
+B 
+
+ 
+
+A) 67,2 g 
+
+ 
+
+ 
+
+B) 73,0 g 
+
+ 
+
+ 
+
+C) 54,5 g 
+
+ 
+
+ 
+
+D) 61,9 g 
+
+ 
+
+
+
+ 
+
+174. 
+
+
+Jakou hmotnost síranu sodného je možné získat odpařením 1200 g jeho 12% roztoku? 
+(.=1,1111 g.cm-3) 
+
+C 
+
+ 
+
+A) 80 g 
+
+ 
+
+ 
+
+B) 160 g 
+
+ 
+
+ 
+
+C) 144 g 
+
+ 
+
+ 
+
+D) 130 g 
+
+ 
+
+
+
+ 
+
+
+175. 
+
+
+K přípravě 150 ml 20% roztoku hydroxidu sodného potřebujeme: 
+(.20%NaOH =1,2191 g.cm-3) 
+
+A 
+
+ 
+
+A) 36,6 g NaOH a 146,3 ml H2O 
+
+ 
+
+ 
+
+B) 36,6 g NaOH a 113,4 ml H2O 
+
+ 
+
+ 
+
+C) 30,1 g NaOH a 113,4 ml H2O 
+
+ 
+
+ 
+
+D) 30,1 g NaOH a 146,3 ml H2O 
+
+ 
+
+
+
+ 
+
+176. 
+
+
+Kolik gramů chloridu draselného je potřeba na přípravu 222 ml roztoku o koncentraci 
+2 mol/l? (M(KCl)= 74,55 g.mol-1) 
+
+B 
+
+ 
+
+A) 444 g 
+
+ 
+
+ 
+
+B) 33 g 
+
+ 
+
+ 
+
+C) 66 g 
+
+ 
+
+ 
+
+D) 120 g 
+
+ 
+
+
+
+ 
+
+177. 
+
+
+Jakou hmotnost chloridu draselného lze získat odpařením 1200 ml jeho roztoku o 
+koncentraci 1,5 mol/l? (M(KCl)= 74,55 g.mol-1) 
+
+C 
+
+ 
+
+A) 300 g 
+
+ 
+
+ 
+
+B) 89 g 
+
+ 
+
+ 
+
+C) 134 g 
+
+ 
+
+ 
+
+D) 110 g 
+
+ 
+
+
+
+ 
+
+178. 
+
+
+Jaký objem roztoku chloridu draselného o koncentraci 1,25 mol/l lze získat z 38 g pevné 
+látky? (M(KCl)= 74,55 g.mol-1) 
+
+A 
+
+ 
+
+A) 408 ml 
+
+ 
+
+ 
+
+B) 0,408 ml 
+
+ 
+
+ 
+
+C) 4,08 ml 
+
+ 
+
+ 
+
+D) 40,8 ml l 
+
+ 
+
+
+
+ 
+
+179. 
+
+
+Jakou molární koncentraci bude mít roztok připravený rozpuštěním 5 g chloridu sodného 
+v malém množství vody a doplněním na objem 100 ml? ( M(NaCl)= 58,44 g.mol-1) 
+
+C 
+
+ 
+
+A) 1,2 mol.l-1 
+
+ 
+
+ 
+
+B) 0,12 mol.l-1 
+
+ 
+
+ 
+
+C) 0,86 mol.l-1 
+
+ 
+
+ 
+
+D) 0,0086 mol.l-1 
+
+ 
+
+
+
+ 
+
+180. 
+
+
+Jaké látkové množství síranu draselného je potřeba k přípravě 11 l roztoku o koncentraci 
+0,65 mol/l? 
+
+B 
+
+ 
+
+A) 715 mol 
+
+ 
+
+ 
+
+B) 7,15 mol 
+
+ 
+
+ 
+
+C) 5,9 mol 
+
+ 
+
+ 
+
+D) 0,715 mol 
+
+ 
+
+
+
+ 
+
+ 
+
+
+181. 
+
+
+Jaký hmotnostní zlomek bude mít roztok kyseliny sírové vzniklý smícháním 30 g 20% 
+roztoku a 20 g 75% roztoku kyseliny sírové? 
+
+D 
+
+ 
+
+A) 0,0475 
+
+ 
+
+ 
+
+B) 0,475 
+
+ 
+
+ 
+
+C) 0,042 
+
+ 
+
+ 
+
+D) 0,42 
+
+ 
+
+
+
+ 
+
+182. 
+
+
+Kolik gramů vody je potřeba přidat do 25 g 25% roztoku chloridu sodného, aby vznikl 
+roztok 15%? 
+
+D 
+
+ 
+
+A) 25,0 g 
+
+ 
+
+ 
+
+B) 15,0 g 
+
+ 
+
+ 
+
+C) 20,0 g 
+
+ 
+
+ 
+
+D) 16,7 g 
+
+ 
+
+
+
+ 
+
+183. 
+
+
+Do 150 ml 10% roztoku uhličitanu sodného jsme nalili 150 ml vody. Vzniklý roztok je: 
+..(10% Na2CO3) = 1,1029 g.cm-3. 
+
+C 
+
+ 
+
+A) 6,0% 
+
+ 
+
+ 
+
+B) 5,0% 
+
+ 
+
+ 
+
+C) 5,2% 
+
+ 
+
+ 
+
+D) 6,2% 
+
+ 
+
+
+
+ 
+
+184. 
+
+
+Kolik ml 10% H2SO4 (.=1,07 g.cm-3) je zapotřebí k neutralizaci roztoku, který obsahuje 
+16 gramů NaOH? .M(H2SO4)=98,07 g/mol; M(NaOH)=40,00 g/mol. 
+
+C 
+
+ 
+
+A) 196 ml 
+
+ 
+
+ 
+
+B) 19,6 ml 
+
+ 
+
+ 
+
+C) 183 ml 
+
+ 
+
+ 
+
+D) 167 ml 
+
+ 
+
+
+
+ 
+
+185. 
+
+
+Kolik mililitrů 0,025 molární H2SO4 je zapotřebí k neutralizaci 525 ml 0,06 molárního 
+KOH? .M(H2SO4)=98,07 g/mol; M(KOH)=56,11 g/mol. 
+
+A 
+
+ 
+
+A) 630 ml 
+
+ 
+
+ 
+
+B) 1,2 l 
+
+ 
+
+ 
+
+C) 120 ml 
+
+ 
+
+ 
+
+D) 0,63 ml 
+
+ 
+
+
+
+ 
+
+186. 
+
+
+Kolik gramů NaNO3 vznikne neutralizací roztoku, který obsahuje 12 gramů NaOH? 
+.M(NaNO3)=84,99 g/mol; M(NaOH)=40,00 g/mol. 
+
+B 
+
+ 
+
+A) 50,1 g 
+
+ 
+
+ 
+
+B) 25,5 g 
+
+ 
+
+ 
+
+C) 12,7 g 
+
+ 
+
+ 
+
+D) 5,0 g 
+
+ 
+
+
+
+ 
+
+ 
+
+
+187. 
+
+
+Kolik g uhličitanu sodného (M=106,0 g/mol) je třeba k úplné neutralizaci 1,5 mol HCl? 
+
+D 
+
+ 
+
+A) 318,0 g 
+
+ 
+
+ 
+
+B) 31,8 g 
+
+ 
+
+ 
+
+C) 159,0 g 
+
+ 
+
+ 
+
+D) 79,5 g 
+
+ 
+
+
+
+ 
+
+188. 
+
+
+Jaké látkové množství NaOH může zneutralizovat 156,8 g H2SO4? [M(H2SO4)=98,0 g/mol] 
+
+C 
+
+ 
+
+A) 6,4 mol 
+
+ 
+
+ 
+
+B) 1,6 mol 
+
+ 
+
+ 
+
+C) 3,2 mol 
+
+ 
+
+ 
+
+D) 0,8 mol 
+
+ 
+
+
+
+ 
+
+189. 
+
+
+Kolik dm3 oxidu uhličitého (měřeno za normálních podmínek) vznikne rozkladem 125 g 
+CaCO3 (M=100,0 g/mol), který obsahuje 10 % nečistot? 
+
+B 
+
+ 
+
+A) 28,0 dm3 
+
+ 
+
+ 
+
+B) 25,2 dm3 
+
+ 
+
+ 
+
+C) 31,1 dm3 
+
+ 
+
+ 
+
+D) 2,8 dm3 
+
+ 
+
+
+
+ 
+
+190. 
+
+
+Jaký je empirický vzorec sloučeniny složené z 43,7 % fosforu a 56,3 % kyslíku (jde o 
+hmot. %)? (Ar(O)=15,9994; Ar(P)=30,9738) 
+
+D 
+
+ 
+
+A) P5O2 
+
+ 
+
+ 
+
+B) PO2 
+
+ 
+
+ 
+
+C) P4O10 
+
+ 
+
+ 
+
+D) P2O5 
+
+ 
+
+
+
+ 
+
+191. 
+
+
+Vypočtěte hmotnostní zlomek vody v pentahydrátu síranu měďnatého. (Ar(Cu)=63,54; 
+Ar(O)=15,9994; Ar(S)=32,06; Mr(H2O)=18,015) 
+
+B 
+
+ 
+
+A) 0,722 
+
+ 
+
+ 
+
+B) 0,361 
+
+ 
+
+ 
+
+C) 0,0722 
+
+ 
+
+ 
+
+D) 0,0361 
+
+ 
+
+
+
+ 
+
+192. 
+
+
+Odvoďte vzorec hydrátu chloridu vápenatého, ztrácí-li 7,3 g tohoto hydrátu při zahřívání 
+3,6 g vody. (Ar(Ca) = 40,08; Ar(Cl) = 35,453; Ar(H) = 1,00797; Ar(O) = 15,9994) 
+
+B 
+
+ 
+
+A) CaCl2.10H2O 
+
+ 
+
+ 
+
+B) CaCl2.6H2O 
+
+ 
+
+ 
+
+C) CaCl2.5H2O 
+
+ 
+
+ 
+
+D) CaCl2.H2O 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+193. 
+
+
+Kolik gramů sodíku je ve 140 g hydroxidu sodného? M(Na)=22,99 g/mol; 
+M(NaOH)=40,00 g/mol. 
+
+A 
+
+ 
+
+A) 80,5 g 
+
+ 
+
+ 
+
+B) 57,5 g 
+
+ 
+
+ 
+
+C) 40,2 g 
+
+ 
+
+ 
+
+D) 60,3 g 
+
+ 
+
+
+
+ 
+
+194. 
+
+
+Do roztoku, který obsahoval 27 g chloridu měďnatého, bylo přidáno 12 g železa. Kolik 
+gramů mědi vzniklo? M(CuCl2)=134,45 g/mol; M(Fe)=55,85 g/mol; M(Cu)=63,55 g/mol. 
+
+B 
+
+ 
+
+A) 6,8 g 
+
+ 
+
+ 
+
+B) 12,8 g 
+
+ 
+
+ 
+
+C) 13,65 g 
+
+ 
+
+ 
+
+D) 6,4 g 
+
+ 
+
+
+
+ 
+
+195. 
+
+
+Rozpustnost hydroxidu vápenatého je 0,165 g v 100 ml roztoku. Vypočítejte součin 
+rozpustnosti. M(Ca(OH)2)=74,09 g/mol. 
+
+C 
+
+ 
+
+A) 1,80.10-5 
+
+ 
+
+ 
+
+B) 4,42.10-8 
+
+ 
+
+ 
+
+C) 4,42.10-5 
+
+ 
+
+ 
+
+D) 1,80.10-2 
+
+ 
+
+
+
+ 
+
+196. 
+
+
+Jaké pH má vodný roztok, v němž je koncentrace H3O+ iontů 0,007 mol.dm-3? 
+
+C 
+
+ 
+
+A) 11,9 
+
+ 
+
+ 
+
+B) -2,1 
+
+ 
+
+ 
+
+C) 2,1 
+
+ 
+
+ 
+
+D) 4,3 
+
+ 
+
+
+
+ 
+
+197. 
+
+
+Jaké pH má vodný roztok, v němž je koncentrace OH- iontů 4.10-10 mol.dm-3? 
+
+B 
+
+ 
+
+A) 9,4 
+
+ 
+
+ 
+
+B) 4,6 
+
+ 
+
+ 
+
+C) 8,9 
+
+ 
+
+ 
+
+D) 2,8 
+
+ 
+
+
+
+ 
+
+198. 
+
+
+Jaká je molární koncentrace H3O+ iontů v roztoku, jehož pH = 5,5? 
+
+B 
+
+ 
+
+A) 3,2.10-9 mol.dm-3 
+
+ 
+
+ 
+
+B) 3,2.10-6 mol.dm-3 
+
+ 
+
+ 
+
+C) 3,9.10-6 mol.dm-3 
+
+ 
+
+ 
+
+D) 8,2.10-10 mol.dm-3 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+199. 
+
+
+Jaké je pH roztoku hydroxidu sodného, jehož látková koncentrace je 0,002 mol.dm-3? 
+
+A 
+
+ 
+
+A) 11,3 
+
+ 
+
+ 
+
+B) 9,9 
+
+ 
+
+ 
+
+C) 2,7 
+
+ 
+
+ 
+
+D) 12,9 
+
+ 
+
+
+
+ 
+
+200. 
+
+
+Jaké pOH má roztok, jehož pH = 8,7? 
+
+A 
+
+ 
+
+A) 5,3 
+
+ 
+
+ 
+
+B) 8,7 
+
+ 
+
+ 
+
+C) 12,6 
+
+ 
+
+ 
+
+D) 6,5 
+
+ 
+
+
+
+ 
+
+201. 
+
+
+Tento vzorec představuje 
+
+D 
+
+ 
+
+A) benzen 
+
+ 
+
+ 
+
+B) vaničkovou konfiguraci cyklopentanu 
+
+ 
+
+ 
+
+C) není předlohou pro žádnou organickou látku 
+
+ 
+
+ 
+
+D) židličkovou konformaci cyklohexanu 
+
+ 
+
+
+
+ 
+
+202. 
+
+
+Trojná vazba v propynu 
+
+B 
+
+ 
+
+A) je tvořena uhlíkem v sp a sp3 hybridizaci 
+
+ 
+
+ 
+
+B) je kratší než dvojná vazba v propenu 
+
+ 
+
+ 
+
+C) je obecně reaktivnější než dvojná vazba 
+
+ 
+
+ 
+
+D) je tvořena třemi . vazbami 
+
+ 
+
+
+
+ 
+
+203. 
+
+
+Mezi sekundární alkoholy patří sloučenina s názvem 
+
+B 
+
+ 
+
+A) diethylether 
+
+ 
+
+ 
+
+B) cyklohexan-1-ol 
+
+ 
+
+ 
+
+C) benzenol 
+
+ 
+
+ 
+
+D) 2-aminopropan-1-ol 
+
+ 
+
+
+
+ 
+
+204. 
+
+
+Která z uvedených sloučenin má nulový dipólový moment 
+
+C 
+
+ 
+
+A) dichlormethan 
+
+ 
+
+ 
+
+B) chlorfluormethan 
+
+ 
+
+ 
+
+C) tetrachlormethan 
+
+ 
+
+ 
+
+D) benzaldehyd 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+205. 
+
+
+Který z následujících iontů nemá elektronovou konfiguraci vzácného plynu 
+
+D 
+
+ 
+
+A) Na+ 
+
+ 
+
+ 
+
+B) Cl- 
+
+ 
+
+ 
+
+C) Ca2+ 
+
+ 
+
+ 
+
+D) F+ 
+
+ 
+
+
+
+ 
+
+206. 
+
+
+Mezi aromatické sloučeniny patří 
+
+B 
+
+ 
+
+A) benzen, toluen, cyklooktatetraen 
+
+ 
+
+ 
+
+B) xylen, benzen, indol 
+
+ 
+
+ 
+
+C) anilin, pyridin, tetrahydrofuran 
+
+ 
+
+ 
+
+D) kafr, menthol, kyselina skořicová 
+
+ 
+
+
+
+ 
+
+207. 
+
+
+Sekundární amin 
+
+C 
+
+ 
+
+A) má dusíkový atom umístěný na sekundárním uhlíku 
+
+ 
+
+ 
+
+B) obsahuje v molekule 2 atomy dusíku 
+
+ 
+
+ 
+
+C) má na dusíkový atom vázané 2 alkylové zbytky 
+
+ 
+
+ 
+
+D) musí v molekule obsahovat vždy kromě dusíku ještě jeden heteroatom 
+
+ 
+
+
+
+ 
+
+208. 
+
+
+Trifluormethylová skupina 
+
+C 
+
+ 
+
+A) způsobí vyšší rozpustnost látky ve vodě 
+
+ 
+
+ 
+
+B) působí kladným mezomerním efektem 
+
+ 
+
+ 
+
+C) intenzivně polarizuje vazbu směrem k sobě 
+
+ 
+
+ 
+
+D) zvyšuje bazicitu aminoskupiny, avšak pouze je-li konjugována 
+
+ 
+
+
+
+ 
+
+209. 
+
+
+Mezi skupiny s vlastnostmi elektrofilů řadíme 
+
+C 
+
+ 
+
+A) takovou skupinu, která má přebytek elektronů 
+
+ 
+
+ 
+
+B) SO3; -NH2; 
+
+ 
+
+ 
+
+C) -COOH; Br+ 
+
+ 
+
+ 
+
+D) INH2-; jodidový anion 
+
+ 
+
+
+
+ 
+
+210. 
+
+
+Která z uvedených sloučenin má nejvyšší teplotu varu? 
+
+D 
+
+ 
+
+A) aceton 
+
+ 
+
+ 
+
+B) diethylether 
+
+ 
+
+ 
+
+C) ethylalkohol 
+
+ 
+
+ 
+
+D) kyselina octová 
+
+ 
+
+
+
+ 
+
+211. 
+
+
+ Která z uvedených sloučenin bude nejlépe rozpustná ve vodě? 
+
+A 
+
+ 
+
+A) Propan-2-ol 
+
+ 
+
+ 
+
+B) Butan-1-ol 
+
+ 
+
+ 
+
+C) Pentan-2-on 
+
+ 
+
+ 
+
+D) Benzen-1-ol 
+
+ 
+
+
+
+ 
+
+
+212. 
+
+
+Která baze je nejsilnější? 
+
+B 
+
+ 
+
+A) Anilin 
+
+ 
+
+ 
+
+B) Methyliový anion 
+
+ 
+
+ 
+
+C) Diisopropylamin 
+
+ 
+
+ 
+
+D) Hydroxid sodný 
+
+ 
+
+
+
+ 
+
+213. 
+
+
+Alkoholát lze připravit reakcí 
+
+B 
+
+ 
+
+A) Alkalického (silného) hydroxidu s alkoholem 
+
+ 
+
+ 
+
+B) Kovu s alkoholem 
+
+ 
+
+ 
+
+C) Oxidem s hydroxykyselinou 
+
+ 
+
+ 
+
+D) Reakcí dvou molekul různých alkoholů, neboť se jedná o anhydrid alkoholu 
+
+ 
+
+
+
+ 
+
+214. 
+
+
+Který vztah platí: 
+
+A 
+
+ 
+
+A) Fenol je kyselejší než methanol 
+
+ 
+
+ 
+
+B) Kyselina octová není rozpustná v acetonu 
+
+ 
+
+ 
+
+C) Anilin je bazičtější než amoniak 
+
+ 
+
+ 
+
+D) Nitrobenzen je hořlavější než aceton 
+
+ 
+
+
+
+ 
+
+215. 
+
+
+Izomery 
+
+D 
+
+ 
+
+A) jsou sloučeniny, které nemají praktický význam, jde o teoretický vztah dvou molekul 
+
+ 
+
+ 
+
+B) se vždy vyznačují opačným směrem stáčení roviny polarizovaného světla 
+
+ 
+
+ 
+
+C) mají odlišný sumární vzorec, ale stejné vlastnosti 
+
+ 
+
+ 
+
+D) mají odlišné fyzikální a/nebo chemické vlastnosti 
+
+ 
+
+
+
+ 
+
+216. 
+
+
+Ketony 
+
+C 
+
+ 
+
+A) poskytují s vodou soli 
+
+ 
+
+ 
+
+B) obsahují acetalovou skupinu 
+
+ 
+
+ 
+
+C) vytvářejí na karbonylovém uhlíku částkový kladný náboj 
+
+ 
+
+ 
+
+D) se nemohou používat jako rozpouštědla 
+
+ 
+
+
+
+ 
+
+217. 
+
+
+Alkoholy 
+
+B 
+
+ 
+
+A) obsahují nejméně 2 hydroxylové skupiny 
+
+ 
+
+ 
+
+B) jsou slabé kyseliny 
+
+ 
+
+ 
+
+C) vytvářejí ve vodě stabilní soli se sekundárními aminy 
+
+ 
+
+ 
+
+D) nejsou kapalné 
+
+ 
+
+
+
+ 
+
+218. 
+
+
+Konformace 
+
+B 
+
+ 
+
+A) je prostorové uspořádání na formylovém aniontu 
+
+ 
+
+ 
+
+B) vyjadřuje tvar molekuly 
+
+ 
+
+ 
+
+C) je teoretickým pojmem, prakticky nemá význam 
+
+ 
+
+ 
+
+D) benzenu způsobuje jeho barevnost 
+
+ 
+
+
+
+ 
+
+
+219. 
+
+
+Konfigurace 
+
+A 
+
+ 
+
+A) je uspořádání skupin či atomů zejména na atomu uhlíku 
+
+ 
+
+ 
+
+B) není v žádném vztahu k optické aktivitě sloučenin 
+
+ 
+
+ 
+
+C) je především židličková 
+
+ 
+
+ 
+
+D) methanu je sp3 
+
+ 
+
+
+
+ 
+
+220. 
+
+
+Která z uvedených sloučenin nemá ani jedno centrum chirality? 
+
+A 
+
+ 
+
+A) Aceton 
+
+ 
+
+ 
+
+B) Alanin 
+
+ 
+
+ 
+
+C) Sacharóza 
+
+ 
+
+ 
+
+D) Prop-2-ylester glycinu 
+
+ 
+
+
+
+ 
+
+221. 
+
+
+Benzyl je jednovazný zbytek od 
+
+D 
+
+ 
+
+A) benzínu 
+
+ 
+
+ 
+
+B) benzenu 
+
+ 
+
+ 
+
+C) 1,2-dimethylbenzenu 
+
+ 
+
+ 
+
+D) toluenu 
+
+ 
+
+
+
+ 
+
+222. 
+
+
+Acyl 
+
+D 
+
+ 
+
+A) je ve zředěné formě používán jako dochucovadlo v kuchyni 
+
+ 
+
+ 
+
+B) je zbytek karboxylové kyseliny získaný myšleným odtržením alkylového zbytku 
+
+ 
+
+ 
+
+C) je součástí vulkanizačních činidel 
+
+ 
+
+ 
+
+D) můžeme vyjádřit obecným vzorcem R-CO 
+
+ 
+
+
+
+ 
+
+223. 
+
+
+Vinyl 
+
+B 
+
+ 
+
+A) je aromatická součást komplexů vonných látek obsažených ve víně 
+
+ 
+
+ 
+
+B) můžeme nazvat též jako „ethenyl“ 
+
+ 
+
+ 
+
+C) může obsahovat až trojnou vazbu 
+
+ 
+
+ 
+
+D) je acyl kyseliny vinné 
+
+ 
+
+
+
+ 
+
+224. 
+
+
+Sloučenina 
+
+ 
+
+C 
+
+ 
+
+A) je aminoketon 
+
+ 
+
+ 
+
+B) nepodléhá hydrolytické reakci 
+
+ 
+
+ 
+
+C) je amid 
+
+ 
+
+ 
+
+D) neexistuje 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+225. 
+
+
+CH3ONO2 
+
+D 
+
+ 
+
+A) je nitromethan 
+
+ 
+
+ 
+
+B) nemůže existovat 
+
+ 
+
+ 
+
+C) je ester kyseliny dusité 
+
+ 
+
+ 
+
+D) je typickou ukázkou organického nitrátu 
+
+ 
+
+
+
+ 
+
+226. 
+
+
+Kyslík obsahuje 
+
+C 
+
+ 
+
+A) thiofen 
+
+ 
+
+ 
+
+B) pyrazin 
+
+ 
+
+ 
+
+C) purinol 
+
+ 
+
+ 
+
+D) chinolin 
+
+ 
+
+
+
+ 
+
+227. 
+
+
+Vzorec 
+
+ 
+CHHHCOO-H
+
+C 
+
+ 
+
+A) vyjadřuje vzorec konformační 
+
+ 
+
+ 
+
+B) je vzorcem sumárním 
+
+ 
+
+ 
+
+C) je chybným vyjádřením kyseliny mravenčí 
+
+ 
+
+ 
+
+D) vysvětluje chiralitu dané sloučeniny 
+
+ 
+
+
+
+ 
+
+228. 
+
+
+Které tvrzení neplatí? 
+
+C 
+
+ 
+
+A) Benzen je hořlavina 
+
+ 
+
+ 
+
+B) Voda může vystupovat jako baze 
+
+ 
+
+ 
+
+C) Kyselina hexanová je kyselejší než kyselina octová 
+
+ 
+
+ 
+
+D) Ethanol vytváří soli 
+
+ 
+
+
+
+ 
+
+229. 
+
+
+Mezi acyklické uhlovodíky řadíme 
+
+D 
+
+ 
+
+A) alkany a cykloalkany 
+
+ 
+
+ 
+
+B) všechny aromáty 
+
+ 
+
+ 
+
+C) deriváty bicyklických sloučenin 
+
+ 
+
+ 
+
+D) alkyny 
+
+ 
+
+
+
+ 
+
+230. 
+
+
+Co je to koks? 
+
+A 
+
+ 
+
+A) Tepelně zpracované černé uhlí 
+
+ 
+
+ 
+
+B) Slangový název pro pervitin 
+
+ 
+
+ 
+
+C) Tuhý porézní zbytek po zpracování ropy 
+
+ 
+
+ 
+
+D) Surovina pro chemický průmysl obsahující především heterocyklické sloučeniny 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+231. 
+
+
+Hlavním produktem reakce kyseliny benzoové s nitrační směsí je 
+
+C 
+
+ 
+
+A) kyselina 1-nitrobenzoová 
+
+ 
+
+ 
+
+B) kyselina 2-nitrobenzoová 
+
+ 
+
+ 
+
+C) kyselina 3-nitrobenzoová 
+
+ 
+
+ 
+
+D) kyselina 4-nitrobenzoová 
+
+ 
+
+
+
+ 
+
+232. 
+
+
+Acetylen 
+
+C 
+
+ 
+
+A) je bazický plyn 
+
+ 
+
+ 
+
+B) je kyselá kapalina 
+
+ 
+
+ 
+
+C) tvoří soli 
+
+ 
+
+ 
+
+D) vzniká z karbonátů reakcí s vodou 
+
+ 
+
+
+
+ 
+
+233. 
+
+
+Radikálová substituce 
+
+C 
+
+ 
+
+A) probíhá převážně za velmi nízkých teplot 
+
+ 
+
+ 
+
+B) má tři fáze – iniciace, propagace, termoregulace 
+
+ 
+
+ 
+
+C) slouží k výrobě alkylhalogenidů 
+
+ 
+
+ 
+
+D) má iontový průběh 
+
+ 
+
+
+
+ 
+
+234. 
+
+
+Freony 
+
+D 
+
+ 
+
+A) obsahují hydroxylové skupiny, a proto ničí ultrafialové záření 
+
+ 
+
+ 
+
+B) jsou halogenderiváty vyplňující ozonovou díru 
+
+ 
+
+ 
+
+C) jsou plynné látky zachycující gama-záření 
+
+ 
+
+ 
+
+D) jsou molekuly obsahující atomy halogenů a reagující s ozonem 
+
+ 
+
+
+
+ 
+
+235. 
+
+
+Která z uvedených látek nepatří mezi heterocykly 
+
+A 
+
+ 
+
+A) kresol 
+
+ 
+
+ 
+
+B) chinolin 
+
+ 
+
+ 
+
+C) pterin 
+
+ 
+
+ 
+
+D) purin 
+
+ 
+
+
+
+ 
+
+236. 
+
+
+Ethylenglykol 
+
+A 
+
+ 
+
+A) je vysokovroucí kapalina 
+
+ 
+
+ 
+
+B) je plyn používaný do chladících zařízení 
+
+ 
+
+ 
+
+C) je ethylenpropandiol 
+
+ 
+
+ 
+
+D) není toxický, používá se jako aditivum do alkoholických nápojů 
+
+ 
+
+
+
+ 
+
+237. 
+
+
+Nejkyselejší z uvedených látek je 
+
+A 
+
+ 
+
+A) kyselina octová 
+
+ 
+
+ 
+
+B) fenol 
+
+ 
+
+ 
+
+C) isopropylalkohol 
+
+ 
+
+ 
+
+D) propanthiol 
+
+ 
+
+
+
+ 
+
+ 
+
+
+238. 
+
+
+Bazicitu anilinu zvyšuje substituce 
+
+B 
+
+ 
+
+A) nitroskupinou v poloze 3 
+
+ 
+
+ 
+
+B) methoxyskupinou v poloze 4 
+
+ 
+
+ 
+
+C) karboxylovou skupinou v poloze 2 
+
+ 
+
+ 
+
+D) substituentem s –M efektem v poloze 3 
+
+ 
+
+
+
+ 
+
+239. 
+
+
+Ester připravíme 
+
+D 
+
+ 
+
+A) reakcí alkoholu s fenolem 
+
+ 
+
+ 
+
+B) reakcí fenolu s karboxylovou kyselinou 
+
+ 
+
+ 
+
+C) reakcí anhydridu karboxylové kyseliny s amidem 
+
+ 
+
+ 
+
+D) reakcí chloridu karboxylové kyseliny s fenolem 
+
+ 
+
+240. 
+
+
+Konjugovaná báze k propanolu je 
+
+D 
+
+ 
+
+A) CH3CH2CH2- 
+
+ 
+
+ 
+
+B) CH3CH2CH2OH+ 
+
+ 
+
+ 
+
+C) CH3CH2CH2+ 
+
+ 
+
+ 
+
+D) CH3CH2CH2O- 
+
+ 
+
+
+
+ 
+
+241. 
+
+
+Uvedené sloučeniny znázorňují 
+
+ 
+OHOHOHOH
+
+D 
+
+ 
+
+A) 4 enantiomery 
+
+ 
+
+ 
+
+B) 2 dvojice diastereoisomerů 
+
+ 
+
+ 
+
+C) 4 různé sloučeniny 
+
+ 
+
+ 
+
+D) stejnou látku 
+
+ 
+
+
+
+ 
+
+242. 
+
+
+Manganistan draselný reaguje za chladu s but-2-enem za vzniku 
+
+C 
+
+ 
+
+A) butanolu 
+
+ 
+
+ 
+
+B) butan-1,2-diolu 
+
+ 
+
+ 
+
+C) butan-2,3-diolu 
+
+ 
+
+ 
+
+D) butan-1,4-diolu 
+
+ 
+
+
+
+ 
+
+243. 
+
+
+Oxidací pentan-2-olu se připraví 
+
+C 
+
+ 
+
+A) kyselina pentanová 
+
+ 
+
+ 
+
+B) pentan-2-al 
+
+ 
+
+ 
+
+C) pentan-2-on 
+
+ 
+
+ 
+
+D) pentan-2-olid 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+244. 
+
+
+Enolformu tvoří 
+
+A 
+
+ 
+
+A) ethanal 
+
+ 
+
+ 
+
+B) benzenal 
+
+ 
+
+ 
+
+C) cyklohexanal 
+
+ 
+
+ 
+
+D) aldehyd kyseliny benzoové 
+
+ 
+
+
+
+ 
+
+245. 
+
+
+Acetaly jsou produkty reakce 
+
+A 
+
+ 
+
+A) alkoholu a ketonu v kyselém prostředí 
+
+ 
+
+ 
+
+B) ketonů s kyselinou octovou v bazickém prostředí 
+
+ 
+
+ 
+
+C) diolů s anhydridy karboxylových kyselin v neutrálním prostředí 
+
+ 
+
+ 
+
+D) aldehydů s estery karboxylových kyselin v kyselém prostředí 
+
+ 
+
+
+
+ 
+
+246. 
+
+
+Ketony 
+
+C 
+
+ 
+
+A) obsahují vždy dusík 
+
+ 
+
+ 
+
+B) mají kyselý vodík v alfa-poloze vůči karboxylu 
+
+ 
+
+ 
+
+C) netvoří vodíkové můstky 
+
+ 
+
+ 
+
+D) nereagují s dusíkatými bazemi 
+
+ 
+
+
+
+ 
+
+247. 
+
+
+Alkoholy 
+
+D 
+
+ 
+
+A) jsou kyselejší než voda, proto nelze připravit alkoholát reakcí s hydroxidem 
+
+ 
+
+ 
+
+B) slouží jako meziprodukty při výrobě fenolů 
+
+ 
+
+ 
+
+C) netvoří vodíkové můstky, proto mají vyšší teplotu varu než odpovídající karboxylové 
+kyseliny 
+
+ 
+
+ 
+
+D) tvoří s acylchloridy estery 
+
+ 
+
+
+
+ 
+
+248. 
+
+
+Karboxylové kyseliny 
+
+A 
+
+ 
+
+A) obsahují karbonylovou skupinu 
+
+ 
+
+ 
+
+B) netvoří deriváty 
+
+ 
+
+ 
+
+C) jsou chirální, a proto mohou vystupovat též jako baze 
+
+ 
+
+ 
+
+D) netvoří soli s alkalickými hydroxidy 
+
+ 
+
+
+
+ 
+
+249. 
+
+
+Mezi nasycené karboxylové kyseliny nepatří 
+
+A 
+
+ 
+
+A) kyselina skořicová 
+
+ 
+
+ 
+
+B) kyselina máselná 
+
+ 
+
+ 
+
+C) kyselina valerová 
+
+ 
+
+ 
+
+D) kyselina laurová 
+
+ 
+
+
+
+ 
+
+250. 
+
+
+Kyselina olejová 
+
+B 
+
+ 
+
+A) tvoří enantiomery 
+
+ 
+
+ 
+
+B) je izomerem kyseliny elaidové 
+
+ 
+
+ 
+
+C) nepodléhá esterifikaci 
+
+ 
+
+ 
+
+D) protože je součástí olejů, nemůže tvořit ve vodě rozpustné soli 
+
+ 
+
+
+
+
+251. 
+
+
+Která z uvedených látek nepatří mezi aromatické kyseliny? 
+
+D 
+
+ 
+
+A) Kyselina skořicová 
+
+ 
+
+ 
+
+B) Kyselina mandlová 
+
+ 
+
+ 
+
+C) Kyselina kávová 
+
+ 
+
+ 
+
+D) Kyselina jablečná 
+
+ 
+
+
+
+ 
+
+252. 
+
+
+Smísením benzylchloridu s ethanolem 
+
+B 
+
+ 
+
+A) vzniká ethylester kyseliny benzoové 
+
+ 
+
+ 
+
+B) vzniká roztok benzylchloridu v ethanolu 
+
+ 
+
+ 
+
+C) vzniká benzoan ethylnatý 
+
+ 
+
+ 
+
+D) vzniká ethyl-benzoát 
+
+ 
+
+
+
+ 
+
+253. 
+
+
+Bazickou hydrolýzou acetamidu vzniká 
+
+B 
+
+ 
+
+A) kyselina octová a amoniak 
+
+ 
+
+ 
+
+B) octan a amoniak 
+
+ 
+
+ 
+
+C) kyselina octová a amoniová sůl 
+
+ 
+
+ 
+
+D) octan amonný 
+
+ 
+
+
+
+ 
+
+254. 
+
+
+Z uvedených sloučenin s alkoholy nejrychleji reagují 
+
+B 
+
+ 
+
+A) ethery 
+
+ 
+
+ 
+
+B) acylhalogenidy 
+
+ 
+
+ 
+
+C) ketony 
+
+ 
+
+ 
+
+D) hydroxidy 
+
+ 
+
+
+
+ 
+
+255. 
+
+
+Anhydridy ochotně reagují s 
+
+A 
+
+ 
+
+A) alkoholy 
+
+ 
+
+ 
+
+B) amidy 
+
+ 
+
+ 
+
+C) estery kyseliny dusičné 
+
+ 
+
+ 
+
+D) terciárními aminy 
+
+ 
+
+
+
+ 
+
+256. 
+
+
+Anhydridy lze připravit 
+
+B 
+
+ 
+
+A) reakcí karboxylových kyselin s vodou 
+
+ 
+
+ 
+
+B) reakcí karboxylových kyselin s oxidem fosforečným 
+
+ 
+
+ 
+
+C) reakcí amidů s dehydratačním činidlem 
+
+ 
+
+ 
+
+D) velmi obtížně 
+
+ 
+
+
+
+ 
+
+257. 
+
+
+Fosgen 
+
+A 
+
+ 
+
+A) poskytuje hydrolýzou kyselinu chlorovodíkovou 
+
+ 
+
+ 
+
+B) se v organismu rozkládá na oxid uhelnatý a chlorovodík, proto je toxický 
+
+ 
+
+ 
+
+C) je nereaktivní kapalina 
+
+ 
+
+ 
+
+D) je meziproduktem pro přípravu aromatických alkoholů 
+
+ 
+
+
+
+ 
+
+
+258. 
+
+
+Látka sumárního vzorce C9H8O3 poskytuje reakcí s vodným roztokem hydroxidu směs solí 
+kyseliny octové a benzoové. Neznámá látka je 
+
+A 
+
+ 
+
+A) 
+COOCOCH3
+
+ 
+
+ 
+
+B) 
+CH3COCOOH
+
+ 
+
+ 
+
+C) 
+COHCH2COOH
+
+ 
+
+ 
+
+D) 
+HOOCCH2CHO
+
+ 
+
+
+
+ 
+
+259. 
+
+
+Mezi aminokyseliny nepatří 
+
+D 
+
+ 
+
+A) glycin 
+
+ 
+
+ 
+
+B) threonin 
+
+ 
+
+ 
+
+C) tyrosin 
+
+ 
+
+ 
+
+D) thyroxin 
+
+ 
+
+
+
+ 
+
+260. 
+
+
+V živých organismech se vyskytují aminokyseliny především v konfiguraci 
+
+C 
+
+ 
+
+A) D 
+
+ 
+
+ 
+
+B) K 
+
+ 
+
+ 
+
+C) L 
+
+ 
+
+ 
+
+D) A 
+
+ 
+
+261. 
+
+
+Která z uvedených látek je sekundární amin? 
+
+B 
+
+ 
+
+A) Propan-2-amin 
+
+ 
+
+ 
+
+B) Diisopropylamin 
+
+ 
+
+ 
+
+C) Pyridin 
+
+ 
+
+ 
+
+D) Anilin 
+
+ 
+
+
+
+ 
+
+262. 
+
+
+Anilin s bromovodíkem 
+
+A 
+
+ 
+
+A) poskytuje anilinium-bromid 
+
+ 
+
+ 
+
+B) 2-bromanilin 
+
+ 
+
+ 
+
+C) 3-bromanilin 
+
+ 
+
+ 
+
+D) nereaguje 
+
+ 
+
+
+
+ 
+
+263. 
+
+
+Anilin s bromem 
+
+D 
+
+ 
+
+A) poskytuje anilinium-bromid 
+
+ 
+
+ 
+
+B) 3-bromanilin 
+
+ 
+
+ 
+
+C) 2-bromanilin 
+
+ 
+
+ 
+
+D) 2,4,6-tribromanilin 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+264. 
+
+
+Diazoniové soli 
+
+D 
+
+ 
+
+A) vznikají reakcí sekundárních alifatických aminů s kyselinou dusitou 
+
+ 
+
+ 
+
+B) vznikají reakcí primárních aromatických aminů s kyselinou dusičnou 
+
+ 
+
+ 
+
+C) jsou hypotetické sloučeniny pomocí nichž lze vysvětlit některé mechanismy reakcí 
+
+ 
+
+ 
+
+D) existují za relativně nízkých teplot, většinou ve vodném roztoku 
+
+ 
+
+
+
+ 
+
+265. 
+
+
+Redukcí nitrobenzenu v kyselém prostředí vzniká 
+
+B 
+
+ 
+
+A) nitrosobenzen 
+
+ 
+
+ 
+
+B) benzenamin 
+
+ 
+
+ 
+
+C) ester nitrobenzenu s odpovídající kyselinou 
+
+ 
+
+ 
+
+D) kyselina 3-nitrobenzoová 
+
+ 
+
+
+
+ 
+
+266. 
+
+
+Nitrační směs je 
+
+D 
+
+ 
+
+A) směs kyseliny jodovodíkové a dusičné 
+
+ 
+
+ 
+
+B) směs kyseliny chlorovodíkové a dusičné 
+
+ 
+
+ 
+
+C) směs 100% kyseliny dusičné a 65% kyseliny dusičné 
+
+ 
+
+ 
+
+D) směs kyseliny sírové a dusičné 
+
+ 
+
+
+
+ 
+
+267. 
+
+
+R-CH2-S-CH2-R je 
+
+B 
+
+ 
+
+A) sulfonát 
+
+ 
+
+ 
+
+B) sulfid 
+
+ 
+
+ 
+
+C) sulfit 
+
+ 
+
+ 
+
+D) sulfát 
+
+ 
+
+
+
+ 
+
+268. 
+
+
+R-CH2-O-CH2-R je 
+
+C 
+
+ 
+
+A) peroxid 
+
+ 
+
+ 
+
+B) oxid 
+
+ 
+
+ 
+
+C) ether 
+
+ 
+
+ 
+
+D) etherický olej 
+
+ 
+
+
+
+ 
+
+269. 
+
+
+Bojové chemické látky (tabun, sarin,…) 
+
+A 
+
+ 
+
+A) jsou sloučeniny fosforu 
+
+ 
+
+ 
+
+B) jsou sloučeniny síry 
+
+ 
+
+ 
+
+C) jsou sloučeniny obsahující pouze uhlík, kyslík a vodík 
+
+ 
+
+ 
+
+D) jsou použitelné jako protirakovinné látky 
+
+ 
+
+
+
+ 
+
+270. 
+
+
+Grignardovy sloučeniny jsou sloučeniny 
+
+C 
+
+ 
+
+A) lithia 
+
+ 
+
+ 
+
+B) křemíku 
+
+ 
+
+ 
+
+C) hořčíku 
+
+ 
+
+ 
+
+D) vápníku 
+
+ 
+
+
+
+
+271. 
+
+
+se nazývá 
+NN
+
+C 
+
+ 
+
+A) pyridin 
+
+ 
+
+ 
+
+B) pyrazin 
+
+ 
+
+ 
+
+C) pyridazin 
+
+ 
+
+ 
+
+D) pyrazol 
+
+ 
+
+
+
+ 
+
+272. 
+
+
+Pervitin je derivát 
+
+B 
+
+ 
+
+A) benzylethylaminu 
+
+ 
+
+ 
+
+B) fenylethylaminu 
+
+ 
+
+ 
+
+C) piperazinu 
+
+ 
+
+ 
+
+D) kyseliny lysergové 
+
+ 
+
+
+
+ 
+
+273. 
+
+
+Vzorce vyjadřují 
+
+ NOBrNOBr
+
+B 
+
+ 
+
+A) 2 látky 
+
+ 
+
+ 
+
+B) jednu látku 
+
+ 
+
+ 
+
+C) enantiomery 
+
+ 
+
+ 
+
+D) polohový izomer 
+
+ 
+
+
+
+ 
+
+274. 
+
+
+Která z následujících sloučenin není aromatická 
+
+D 
+
+ 
+
+A) pyrazin 
+
+ 
+
+ 
+
+B) pyrrol 
+
+ 
+
+ 
+
+C) furan 
+
+ 
+
+ 
+
+D) piperazin 
+
+ 
+
+
+
+ 
+
+275. 
+
+
+Který z následujících vzorců představuje ester? 
+
+A 
+
+ 
+
+A) R-O-COR 
+
+ 
+
+ 
+
+B) HO-CH2CH2-CO-CH3 
+
+ 
+
+ 
+
+C) R-O-CH2-O-CH2-CO-CO-R 
+
+ 
+
+ 
+
+D) R-CO-CH2R 
+
+ 
+
+
+
+ 
+
+276. 
+
+
+Která z následujících struktur představuje amid? 
+
+B 
+
+ 
+
+A) R-NH-CHOH-CH2R 
+
+ 
+
+ 
+
+B) R-NR-CO-CH3 
+
+ 
+
+ 
+
+C) R-NH-CH2-CO-CH3 
+
+ 
+
+ 
+
+D) H2N-CHOH-CHOH-CH3 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+277. 
+
+
+Který z následujících vzorců představuje terciární amin? 
+
+B 
+
+ 
+
+A) R-CH2-NRCO-CH3 
+
+ 
+
+ 
+
+B) CH3-N(CH3)-R 
+
+ 
+
+ 
+
+C) HCONHCH3 
+
+ 
+
+ 
+
+D) HCON(CH3)2 
+
+ 
+
+
+
+ 
+
+278. 
+
+
+Schéma 
++Br2FeBr3Br+HBr
+
+C 
+
+ 
+
+A) představuje SNAr 
+
+ 
+
+ 
+
+B) je příkladem přípravy benzylbromidu 
+
+ 
+
+ 
+
+C) je příkladem využití Lewisovy kyseliny 
+
+ 
+
+ 
+
+D) je nereálné, protože vznikající bromovodík rozkládá produkt 
+
+ 
+
+
+
+ 
+
+279. 
+
+
+Reakce bromu s cyklohexenem za laboratorní teploty 
+
+D 
+
+ 
+
+A) poskytuje cyklohexylbromid 
+
+ 
+
+ 
+
+B) je příkladem elektrofilní substituce 
+
+ 
+
+ 
+
+C) poskytuje 1,4-dibromcyklohexan 
+
+ 
+
+ 
+
+D) poskytuje 1,2-dibromcyklohexan 
+
+ 
+
+
+
+ 
+
+280. 
+
+
+Oxidací primárního alkoholu 
+
+C 
+
+ 
+
+A) vzniká jako konečný produkt diol 
+
+ 
+
+ 
+
+B) vzniká keton 
+
+ 
+
+ 
+
+C) vzniká karboxylová kyselina jako konečný produkt 
+
+ 
+
+ 
+
+D) vznikají cyklické ethery 
+
+ 
+
+
+
+ 
+
+281. 
+
+
+Nitroglycerin (správně glyceroltrinitrát) je 
+
+B 
+
+ 
+
+A) nitrolátka 
+
+ 
+
+ 
+
+B) ester 
+
+ 
+
+ 
+
+C) hydroxyderivát nitroglycerinu 
+
+ 
+
+ 
+
+D) derivát kyseliny dusité 
+
+ 
+
+
+
+ 
+
+282. 
+
+
+Jednou z uvedených reakcí vzniká amid: 
+
+C 
+
+ 
+
+A) Karboxylová kyselina + primární amin 
+
+ 
+
+ 
+
+B) Anilin + kyselina dusičná 
+
+ 
+
+ 
+
+C) Anhydrid karboxylové kyseliny + sekundární amin 
+
+ 
+
+ 
+
+D) Halogenid karboxylové kyseliny + hydroxylamin 
+
+ 
+
+
+
+ 
+
+283. 
+
+
+Jak se jmenuje acyl kyseliny octové 
+
+B 
+
+ 
+
+A) acetát 
+
+ 
+
+ 
+
+B) acetyl 
+
+ 
+
+ 
+
+C) acetonyl 
+
+ 
+
+ 
+
+D) octyl 
+
+ 
+
+
+
+
+284. 
+
+
+Nukleové kyseliny 
+
+B 
+
+ 
+
+A) jsou bílkoviny 
+
+ 
+
+ 
+
+B) nemusí nutně tvořit dvoušroubovici 
+
+ 
+
+ 
+
+C) mají ve své molekule esterově vázánu kyselinu fosfornou 
+
+ 
+
+ 
+
+D) obsahují vždy ribózu 
+
+ 
+
+
+
+ 
+
+285. 
+
+
+Která z uvedených aminokyselin obsahuje aromatické jádro? 
+
+C 
+
+ 
+
+A) Valin 
+
+ 
+
+ 
+
+B) Leucin 
+
+ 
+
+ 
+
+C) Tryptofan 
+
+ 
+
+ 
+
+D) Alanin 
+
+ 
+
+
+
+ 
+
+286. 
+
+
+Která z uvedených aminokyselin obsahuje ve své molekule síru? 
+
+C 
+
+ 
+
+A) Glycin 
+
+ 
+
+ 
+
+B) Serin 
+
+ 
+
+ 
+
+C) Cystein 
+
+ 
+
+ 
+
+D) Thyrosin 
+
+ 
+
+
+
+ 
+
+287. 
+
+
+Která z uvedených sloučenin obsahuje ve své molekule heterocyklus? 
+
+D 
+
+ 
+
+A) Isovalin 
+
+ 
+
+ 
+
+B) Prolin 
+
+ 
+
+ 
+
+C) Thyroxin 
+
+ 
+
+ 
+
+D) Fenylalanin 
+
+ 
+
+288. 
+
+
+CH3CHNH2COOH je 
+
+A 
+
+ 
+
+A) alanin 
+
+ 
+
+ 
+
+B) glycin 
+
+ 
+
+ 
+
+C) serin 
+
+ 
+
+ 
+
+D) histidin 
+
+ 
+
+
+
+ 
+
+289. 
+
+
+Bílkoviny 
+
+A 
+
+ 
+
+A) obsahují více než 100 aminokyselin 
+
+ 
+
+ 
+
+B) mají molekulovou hmotnost vždy vyšší než 1 milion 
+
+ 
+
+ 
+
+C) nikdy nemohou obsahovat atom kovu 
+
+ 
+
+ 
+
+D) jsou tvořeny výhradně z lineárních aminokyselin 
+
+ 
+
+
+
+ 
+
+290. 
+
+
+Aminokyselina valin 
+
+C 
+
+ 
+
+A) obsahuje dusíkatý heterocyklus se dvěma atomy dusíku 
+
+ 
+
+ 
+
+B) obsahuje kyslíkatý heterocyklus 
+
+ 
+
+ 
+
+C) neobsahuje heterocyklus 
+
+ 
+
+ 
+
+D) obsahuje indol 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+291. 
+
+
+Kondenzační reakcí dvou molekul aminokyselin 
+
+B 
+
+ 
+
+A) vzniká bílkovina 
+
+ 
+
+ 
+
+B) vzniká substituovaný amid 
+
+ 
+
+ 
+
+C) vzniká polypeptid 
+
+ 
+
+ 
+
+D) vzniká sůl 
+
+ 
+
+
+
+ 
+
+292. 
+
+
+Označte nesprávný výrok: 
+
+A 
+
+ 
+
+A) Aminokyseliny jsou součástí vitamínů řady D 
+
+ 
+
+ 
+
+B) Při isoelektrickém bodu jsou aminokyseliny nejméně rozpustné 
+
+ 
+
+ 
+
+C) Při reakcích aminokyselin vzniká peptidová vazba 
+
+ 
+
+ 
+
+D) V organismu mají zásadní roli pouze chirální aminokyseliny 
+
+ 
+
+
+
+ 
+
+293. 
+
+
+Disulfidický můstek 
+
+A 
+
+ 
+
+A) zajišťuje a zpevňuje terciární strukturu bílkovin 
+
+ 
+
+ 
+
+B) vzniká redukční reakcí mezi dvěma aminokyselinami obsahujícími síru 
+
+ 
+
+ 
+
+C) zvyšuje polaritu sloučenin 
+
+ 
+
+ 
+
+D) nemá v chemii peptidů význam 
+
+ 
+
+
+
+ 
+
+294. 
+
+
+Glykoproteiny 
+
+D 
+
+ 
+
+A) obsahují v molekule mastné kyseliny 
+
+ 
+
+ 
+
+B) mají v molekule nejméně tolik monosacharidových jednotek jako aminokyselin 
+
+ 
+
+ 
+
+C) obsahují v molekule glykolové spojovací jednotky 
+
+ 
+
+ 
+
+D) obsahují v molekule několik sacharidových jednotek 
+
+ 
+
+
+
+ 
+
+295. 
+
+
+Hem 
+
+D 
+
+ 
+
+A) obsahuje v molekule pyridinová jádra vytvářející konjugovaný cyklus 
+
+ 
+
+ 
+
+B) má jako centrální atom hořčík 
+
+ 
+
+ 
+
+C) má židličkovou konformaci způsobující červenou barvu 
+
+ 
+
+ 
+
+D) obsahuje atom železa 
+
+ 
+
+
+
+ 
+
+296. 
+
+
+Nekovalentní interakcí rozumíme: 
+
+B 
+
+ 
+
+A) Disulfidické můstky 
+
+ 
+
+ 
+
+B) Vodíkové vazby 
+
+ 
+
+ 
+
+C) Peptidovou vazbu 
+
+ 
+
+ 
+
+D) sigma-vazbu 
+
+ 
+
+
+
+ 
+
+297. 
+
+
+Prostorové uspořádání bílkoviny nepopisuje 
+
+A 
+
+ 
+
+A) primární struktura 
+
+ 
+
+ 
+
+B) sekundární struktura 
+
+ 
+
+ 
+
+C) terciární struktura 
+
+ 
+
+ 
+
+D) kvarterní struktura 
+
+ 
+
+
+
+ 
+
+ 
+
+
+298. 
+
+
+Která struktura tvoří .-helix? 
+
+D 
+
+ 
+
+A) primární 
+
+ 
+
+ 
+
+B) kvarterní 
+
+ 
+
+ 
+
+C) peptidová 
+
+ 
+
+ 
+
+D) sekundární 
+
+ 
+
+
+
+ 
+
+299. 
+
+
+Pyruvátdekarboxyláza je 
+
+B 
+
+ 
+
+A) hormon 
+
+ 
+
+ 
+
+B) enzym 
+
+ 
+
+ 
+
+C) biomediátor 
+
+ 
+
+ 
+
+D) gen přenášející informaci o hormonech zajišťujících odbourávání aminokyselin 
+
+ 
+
+
+
+ 
+
+300. 
+
+
+Thyrosin 
+
+B 
+
+ 
+
+A) obsahuje heterocyklus 
+
+ 
+
+ 
+
+B) je aminohydroxykyselina 
+
+ 
+
+ 
+
+C) je základem disulfidických můstků 
+
+ 
+
+ 
+
+D) zabezpečuje zpevnění peptidových řetězců tvorbou etherových můstků 
+
+ 
+
+
+
+ 
+
+301. 
+
+
+Kyselina anthranilová 
+
+B 
+
+ 
+
+A) je esenciální hydroxykyselina 
+
+ 
+
+ 
+
+B) je aromatická 
+
+ 
+
+ 
+
+C) je ketokyselina 
+
+ 
+
+ 
+
+D) je získávána z anthracitu 
+
+ 
+
+
+
+ 
+
+302. 
+
+
+Mezi zásobní polysacharidy nepatří 
+
+A 
+
+ 
+
+A) celulóza 
+
+ 
+
+ 
+
+B) škrob 
+
+ 
+
+ 
+
+C) inulin 
+
+ 
+
+ 
+
+D) glykogen 
+
+ 
+
+
+
+ 
+
+303. 
+
+
+Sacharóza 
+
+B 
+
+ 
+
+A) je redukující polysacharid 
+
+ 
+
+ 
+
+B) je složená z glukózy a fruktózy 
+
+ 
+
+ 
+
+C) je nejsladší sacharid 
+
+ 
+
+ 
+
+D) získala svůj název podle ruského objevitele Sacharenka 
+
+ 
+
+
+
+ 
+
+304. 
+
+
+Glyceraldehyd 
+
+A 
+
+ 
+
+A) je nejjednodušší trióza 
+
+ 
+
+ 
+
+B) je redukující ketóza 
+
+ 
+
+ 
+
+C) nemá centrum chirality 
+
+ 
+
+ 
+
+D) je součástí tuků 
+
+ 
+
+
+
+ 
+
+
+305. 
+
+
+Haworthovy vzorce vycházejí ze struktury 
+
+C 
+
+ 
+
+A) pyralu 
+
+ 
+
+ 
+
+B) pyranu 
+
+ 
+
+ 
+
+C) tetrahydropyranu 
+
+ 
+
+ 
+
+D) hexahydropyranu 
+
+ 
+
+
+
+ 
+
+306. 
+
+
+Louis Pasteur se proslavil, mimo jiné, pracemi v oblasti 
+
+B 
+
+ 
+
+A) anorganické chemie 
+
+ 
+
+ 
+
+B) chirality kyseliny vinné 
+
+ 
+
+ 
+
+C) výzkumu antibiotik 
+
+ 
+
+ 
+
+D) výzkumu tuberkulózy 
+
+ 
+
+
+
+ 
+
+307. 
+
+
+Mezi stavební sacharidy patří 
+
+B 
+
+ 
+
+A) chinin 
+
+ 
+
+ 
+
+B) chitin 
+
+ 
+
+ 
+
+C) chinidin 
+
+ 
+
+ 
+
+D) kutin 
+
+ 
+
+
+
+ 
+
+308. 
+
+
+Poloacetalový hydroxyl 
+
+A 
+
+ 
+
+A) vzniká intramolekulární reakcí v molekule sacharidu 
+
+ 
+
+ 
+
+B) je nejkyselejší částicí se strukturou –OH 
+
+ 
+
+ 
+
+C) je nejčastěji navázán na první polovinu molekuly kyseliny octové 
+
+ 
+
+ 
+
+D) vytváří laktonový kruh 
+
+ 
+
+
+
+ 
+
+309. 
+
+
+Maltosa 
+
+B 
+
+ 
+
+A) je polysacharid 
+
+ 
+
+ 
+
+B) je obsažena ve sladu 
+
+ 
+
+ 
+
+C) se průmyslově získává izolací z brambor 
+
+ 
+
+ 
+
+D) při zpracování cukrové řepy v cukrovarech přechází v sacharózu 
+
+ 
+
+
+
+ 
+
+310. 
+
+
+Uveďte, který sacharid je nejsladší 
+
+B 
+
+ 
+
+A) cyklamát 
+
+ 
+
+ 
+
+B) fruktóza 
+
+ 
+
+ 
+
+C) sacharóza 
+
+ 
+
+ 
+
+D) aspartam 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+311. 
+
+
+Který z uhlíků lze označit jako poloacetalový 
+
+ 
+
+D 
+
+ 
+
+A) 6 
+
+ 
+
+ 
+
+B) 4 
+
+ 
+
+ 
+
+C) 2 
+
+ 
+
+ 
+
+D) 1 
+
+ 
+
+
+
+ 
+
+312. 
+
+
+Vitamin C 
+
+B 
+
+ 
+
+A) je biotin 
+
+ 
+
+ 
+
+B) obsahuje v molekule dvojnou vazbu 
+
+ 
+
+ 
+
+C) má oxidační vlastnosti 
+
+ 
+
+ 
+
+D) je lipofilní 
+
+ 
+
+
+
+ 
+
+313. 
+
+
+Vitamin B1 
+
+C 
+
+ 
+
+A) je riboflavin 
+
+ 
+
+ 
+
+B) obsahuje nukleosidovou vazbu 
+
+ 
+
+ 
+
+C) je rozpustný ve vodě 
+
+ 
+
+ 
+
+D) není thiamin 
+
+ 
+
+
+
+ 
+
+314. 
+
+
+Tuky jsou 
+
+C 
+
+ 
+
+A) estery kyseliny glycerové s vyššími mastnými alkoholy 
+
+ 
+
+ 
+
+B) anhydridy kyseliny glycerové a vyšších mastných kyselin 
+
+ 
+
+ 
+
+C) estery propan-1,2,3-triolu s karboxylovými kyselinami obsahujícími alespoň 14 
+atomů uhlíku v řetězci 
+
+ 
+
+ 
+
+D) ethery glycerolu a vyšších mastných alkoholů 
+
+ 
+
+
+
+ 
+
+315. 
+
+
+Mýdla jsou 
+
+B 
+
+ 
+
+A) soli vyšších mastných alkoholů 
+
+ 
+
+ 
+
+B) získávána alkalickou hydrolýzou esterů glycerolu a vyšších mastných kyselin 
+
+ 
+
+ 
+
+C) odvozena od saponátů 
+
+ 
+
+ 
+
+D) vyšší mastné kyseliny 
+
+ 
+
+
+
+ 
+
+316. 
+
+
+Acetát celulózy 
+
+C 
+
+ 
+
+A) se průmyslově vyrábí reakcí zředěné kyseliny octové s celulózou 
+
+ 
+
+ 
+
+B) připravíme acetylací celulózy s acetamidem 
+
+ 
+
+ 
+
+C) je ester celulózy s kyselinou octovou 
+
+ 
+
+ 
+
+D) vznikne rozpuštěním celulózy v acetonu 
+
+ 
+
+
+
+ 
+
+ 
+
+
+317. 
+
+
+Kyselina malonová 
+
+B 
+
+ 
+
+A) je základním meziproduktem při syntéze acylpyrinu 
+
+ 
+
+ 
+
+B) je kyselina propandiová 
+
+ 
+
+ 
+
+C) existuje pouze ve formě svých solí 
+
+ 
+
+ 
+
+D) je typická N-kyselina 
+
+ 
+
+
+
+ 
+
+318. 
+
+
+Lipidy 
+
+B 
+
+ 
+
+A) jsou hydrofilní sloučeniny 
+
+ 
+
+ 
+
+B) jsou často součástí buněčné membrány 
+
+ 
+
+ 
+
+C) nikdy neobsahují v molekule fosfor 
+
+ 
+
+ 
+
+D) jsou to sloučeniny převážně na bázi lipofilních solí 
+
+ 
+
+
+
+ 
+
+319. 
+
+
+Ztužování olejů 
+
+C 
+
+ 
+
+A) je postup, kdy ochlazením dojde ke ztuhnutí oleje 
+
+ 
+
+ 
+
+B) je možné pouze u látek, které neobsahují dvojné vazby 
+
+ 
+
+ 
+
+C) je klasickou průmyslovou hydrogenací 
+
+ 
+
+ 
+
+D) provádí se působením kyseliny chlorovodíkové 
+
+ 
+
+
+
+ 
+
+320. 
+
+
+Mazlavé mýdlo 
+
+B 
+
+ 
+
+A) se získá hydrogenací tuků 
+
+ 
+
+ 
+
+B) je směs draselných solí vyšších mastných kyselin 
+
+ 
+
+ 
+
+C) je základní surovinou pro tekutá mýdla s léčivými účinky 
+
+ 
+
+ 
+
+D) má kyselou reakci vodného roztoku 
+
+ 
+
+
+
+ 
+
+321. 
+
+
+Vosky z chemického hlediska můžeme označit za 
+
+A 
+
+ 
+
+A) estery 
+
+ 
+
+ 
+
+B) uhlovodíky 
+
+ 
+
+ 
+
+C) amidy 
+
+ 
+
+ 
+
+D) soli 
+
+ 
+
+
+
+ 
+
+322. 
+
+
+Steroidy 
+
+A 
+
+ 
+
+A) jsou látky na bázi cyklopentanoperhydrofenanthrenu 
+
+ 
+
+ 
+
+B) tvoří základ struktury adrenalinu 
+
+ 
+
+ 
+
+C) se tvoří v ledvinách 
+
+ 
+
+ 
+
+D) jsou většinou fyziologicky neaktivní 
+
+ 
+
+
+
+ 
+
+323. 
+
+
+Steran, jako základ steroidů má 
+
+C 
+
+ 
+
+A) 3 cykly 
+
+ 
+
+ 
+
+B) 2 cykly 
+
+ 
+
+ 
+
+C) 4 cykly 
+
+ 
+
+ 
+
+D) 6 cyklů 
+
+ 
+
+
+
+ 
+
+
+324. 
+
+
+Ke steroidům patří 
+
+D 
+
+ 
+
+A) hormony dřeně nadledvinek 
+
+ 
+
+ 
+
+B) vitamíny ze zelených brambor 
+
+ 
+
+ 
+
+C) alkaloidy opia 
+
+ 
+
+ 
+
+D) skupina vitamínu D 
+
+ 
+
+
+
+ 
+
+325. 
+
+
+Cholesterol 
+
+C 
+
+ 
+
+A) blahodárně působí na sílu cévní stěny 
+
+ 
+
+ 
+
+B) není steroid 
+
+ 
+
+ 
+
+C) je součástí membrán 
+
+ 
+
+ 
+
+D) je rozpustný ve vodném hydroxidu sodném 
+
+ 
+
+
+
+ 
+
+326. 
+
+
+Fosfolipidy 
+
+B 
+
+ 
+
+A) tvoří buněčnou stěnu rostlin 
+
+ 
+
+ 
+
+B) jsou odvozeny od glycerolu 
+
+ 
+
+ 
+
+C) nemají povahu tenzidů 
+
+ 
+
+ 
+
+D) obsahují ve své molekule vždy vyšší mastný alkohol 
+
+ 
+
+
+
+ 
+
+327. 
+
+
+Genetická informace je zakódována ve struktuře 
+
+B 
+
+ 
+
+A) nukleosidů 
+
+ 
+
+ 
+
+B) nukleových kyselin 
+
+ 
+
+ 
+
+C) fosforylovaných nukleových bazí 
+
+ 
+
+ 
+
+D) esterů ribózy s kyselinami fosforečnými 
+
+ 
+
+
+
+ 
+
+328. 
+
+
+Nositelem kyselosti nukleových kyselin je 
+
+D 
+
+ 
+
+A) laktamová forma nukleových bazí 
+
+ 
+
+ 
+
+B) laktimová forma nukleových bazí 
+
+ 
+
+ 
+
+C) poloacetalový hydroxyl deoxyribózy 
+
+ 
+
+ 
+
+D) hydroxyl kyseliny fosforečné 
+
+ 
+
+
+
+ 
+
+329. 
+
+
+Nukleosid je 
+
+B 
+
+ 
+
+A) složen z cukru, baze a kyseliny fosforečné 
+
+ 
+
+ 
+
+B) složen z cukru a baze 
+
+ 
+
+ 
+
+C) ester sacharidu s kyselinou fosforečnou 
+
+ 
+
+ 
+
+D) fosforamid složený z nukleové baze a kyseliny fosforečné 
+
+ 
+
+
+
+ 
+
+330. 
+
+
+Monomer nukleové kyseliny se nazývá 
+
+A 
+
+ 
+
+A) nukleotid 
+
+ 
+
+ 
+
+B) nukleosid 
+
+ 
+
+ 
+
+C) nukleát 
+
+ 
+
+ 
+
+D) nuklean 
+
+ 
+
+
+
+ 
+
+
+331. 
+
+
+V molekule DNA je zabudována 
+
+C 
+
+ 
+
+A) trióza 
+
+ 
+
+ 
+
+B) tetróza 
+
+ 
+
+ 
+
+C) pentóza 
+
+ 
+
+ 
+
+D) hexóza 
+
+ 
+
+
+
+ 
+
+332. 
+
+
+V DNA se vyskytují 
+
+A 
+
+ 
+
+A) adenin, guanin, cytosin a thymin 
+
+ 
+
+ 
+
+B) adenin, guanin, cytosin a uracil 
+
+ 
+
+ 
+
+C) adenin, guaifenesin, cytosin a thymin 
+
+ 
+
+ 
+
+D) adenin, guanin, cystein a uracil 
+
+ 
+
+
+
+ 
+
+333. 
+
+
+Struktura uracilu, thyminu a cytosinu je založena na 
+
+A 
+
+ 
+
+A) pyrimidinu 
+
+ 
+
+ 
+
+B) pyridinu 
+
+ 
+
+ 
+
+C) pyridazinu 
+
+ 
+
+ 
+
+D) piperidinu 
+
+ 
+
+
+
+ 
+
+334. 
+
+
+Tento vzorec 
+
+ 
+
+C 
+
+ 
+
+A) je purin 
+
+ 
+
+ 
+
+B) je pyrimidin 
+
+ 
+
+ 
+
+C) není obsažen v molekule DNA 
+
+ 
+
+ 
+
+D) je puridin 
+
+ 
+
+
+
+ 
+
+335. 
+
+
+Tento vzorec je 
+
+ 
+HNNHOO
+
+A 
+
+ 
+
+A) uracil 
+
+ 
+
+ 
+
+B) thymin 
+
+ 
+
+ 
+
+C) guanin 
+
+ 
+
+ 
+
+D) pyridazindion 
+
+ 
+
+
+
+ 
+
+336. 
+
+
+Tento vzorec je 
+
+ 
+HNNHOO
+
+B 
+
+ 
+
+A) uracil 
+
+ 
+
+ 
+
+B) thymin 
+
+ 
+
+ 
+
+C) thymidin 
+
+ 
+
+ 
+
+D) pyrimidin 
+
+ 
+
+
+
+
+337. 
+
+
+Tento vzorec je 
+
+ 
+HNNHONH2
+
+C 
+
+ 
+
+A) thymin 
+
+ 
+
+ 
+
+B) pyrimidin 
+
+ 
+
+ 
+
+C) cytosin 
+
+ 
+
+ 
+
+D) guanosin 
+
+ 
+
+
+
+ 
+
+338. 
+
+
+Tento vzorec je 
+
+ 
+NNNHNNH2
+
+A 
+
+ 
+
+A) adenin 
+
+ 
+
+ 
+
+B) purin 
+
+ 
+
+ 
+
+C) 1-aminopurin 
+
+ 
+
+ 
+
+D) guanidin 
+
+ 
+
+
+
+ 
+
+339. 
+
+
+Tento vzorec je 
+
+ 
+HNNNHNONH2
+
+A 
+
+ 
+
+A) guanin 
+
+ 
+
+ 
+
+B) guanosin 
+
+ 
+
+ 
+
+C) purin 
+
+ 
+
+ 
+
+D) pyrazologuanidon 
+
+ 
+
+
+
+ 
+
+340. 
+
+
+Jednotlivá vlákna DNA jsou spojena 
+
+C 
+
+ 
+
+A) kovalentními vazbami 
+
+ 
+
+ 
+
+B) disulfidickými můstky 
+
+ 
+
+ 
+
+C) vodíkovými vazbami 
+
+ 
+
+ 
+
+D) van der Waalsovými silami 
+
+ 
+
+
+
+ 
+
+341. 
+
+
+Adenin se v nukleových kyselinách páruje s 
+
+A 
+
+ 
+
+A) thyminem a uracilem 
+
+ 
+
+ 
+
+B) guaninem 
+
+ 
+
+ 
+
+C) thyminem a cytosinem 
+
+ 
+
+ 
+
+D) uracilem a cysteinem 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+342. 
+
+
+Komplementarita bazí 
+
+A 
+
+ 
+
+A) zajišťuje replikaci DNA 
+
+ 
+
+ 
+
+B) způsobuje ireverzibilní spojení dvou řetězců nukleové kyseliny 
+
+ 
+
+ 
+
+C) způsobuje vzájemné odpuzování řetězců nukleových kyselin 
+
+ 
+
+ 
+
+D) je založena na spojování bazických sacharidů obsažených v DNA 
+
+ 
+
+
+
+ 
+
+343. 
+
+
+Nukleotid 
+
+C 
+
+ 
+
+A) je základní stavební jednotkou nukleové kyseliny - tvoří jej baze a cukr 
+
+ 
+
+ 
+
+B) je část RNA – většinou zahrnující úsek 5 bazí 
+
+ 
+
+ 
+
+C) je nukleosid esterifikovaný kyselinou fosforečnou 
+
+ 
+
+ 
+
+D) je základní jednotkou dědičnosti 
+
+ 
+
+
+
+ 
+
+344. 
+
+
+Poloacetalový hydroxyl pentózy 
+
+D 
+
+ 
+
+A) je v nukleových kyselinách volný a je příčinou jejich kyselosti 
+
+ 
+
+ 
+
+B) je vazbou C-N navázán na bazi 
+
+ 
+
+ 
+
+C) vytváří vodíkový můstek s kyselinou fosforečnou a tím zpevňuje dvoušroubovici 
+
+ 
+
+ 
+
+D) poskytuje kondenzační reakcí s bazí tzv. N-glykosid (nukleosid) 
+
+ 
+
+
+
+ 
+
+345. 
+
+
+Uhlík č. 5 ribózy 
+
+B 
+
+ 
+
+A) nese estericky vázanou kyselinu fosforečnou a tvoří tak nukleosid 
+
+ 
+
+ 
+
+B) je v případě nukleosidu volný 
+
+ 
+
+ 
+
+C) vytváří se sousední kys. fosforečnou vodíkovou vazbu 
+
+ 
+
+ 
+
+D) může být navázán na další nukleotid a vytváří tzv. bazický anhydrid 
+
+ 
+
+
+
+ 
+
+346. 
+
+
+Glycerin 
+
+D 
+
+ 
+
+A) má správný chemický název glycerin 
+
+ 
+
+ 
+
+B) je chirální látkou 
+
+ 
+
+ 
+
+C) obsahuje násobnou vazbu 
+
+ 
+
+ 
+
+D) je triol 
+
+ 
+
+
+
+ 
+
+347. 
+
+
+Rovinným uspořádáním se vyznačuje uhlíkový atom v hybridizaci 
+
+D 
+
+ 
+
+A) sprov 
+
+ 
+
+ 
+
+B) sp3 
+
+ 
+
+ 
+
+C) spplan 
+
+ 
+
+ 
+
+D) sp2 
+
+ 
+
+
+
+ 
+
+348. 
+
+
+Kyselina mléčná 
+
+B 
+
+ 
+
+A) je bazická hydroxykyselina 
+
+ 
+
+ 
+
+B) obsahuje v molekule chirální uhlík 
+
+ 
+
+ 
+
+C) stáčí rovinu ultrafialového světla 
+
+ 
+
+ 
+
+D) je 2-hydroxybutanová kyselina 
+
+ 
+
+
+
+ 
+
+
+349. 
+
+
+HOOC-CH2-CH2-CH2-CH2-COOH je podle platného názvosloví 
+
+A 
+
+ 
+
+A) hexandiová kyselina 
+
+ 
+
+ 
+
+B) kyselina butan-1,4-dikarboxylová 
+
+ 
+
+ 
+
+C) dikarboxylovaná kyselina máselná 
+
+ 
+
+ 
+
+D) kyselina hexan-1,6-dikarboxylová 
+
+ 
+
+
+
+ 
+
+350. 
+
+
+Převažující reakcí alkanů 
+
+D 
+
+ 
+
+A) jsou přesmyky 
+
+ 
+
+ 
+
+B) je radikálová adice 
+
+ 
+
+ 
+
+C) je elektrofilní substituce 
+
+ 
+
+ 
+
+D) je radikálová substituce 
+
+ 
+
+
+
+ 
+
+351. 
+
+
+Které skupiny působí +M efektem? 
+
+B 
+
+ 
+
+A) -CH3; -NH2; -COO- 
+
+ 
+
+ 
+
+B) -NH2; -OH; -O- 
+
+ 
+
+ 
+
+C) -C3H7; -NO2; -CN 
+
+ 
+
+ 
+
+D) -CH3; -OH; -NO2 
+
+ 
+
+
+
+ 
+
+352. 
+
+
+Které skupiny snižují kyselost alifatických karboxylových kyselin? 
+
+B 
+
+ 
+
+A) -NO2 
+
+ 
+
+ 
+
+B) -CH(CH3)2 
+
+ 
+
+ 
+
+C) -fenyl 
+
+ 
+
+ 
+
+D) -OH 
+
+ 
+
+
+
+ 
+
+353. 
+
+
+Pyridin 
+
+D 
+
+ 
+
+A) není aromatická sloučenina 
+
+ 
+
+ 
+
+B) obsahuje C,H,N,O,S 
+
+ 
+
+ 
+
+C) je typický heterocyklus obsahující síru, proto tak zapáchá 
+
+ 
+
+ 
+
+D) se vyznačuje velmi malou reaktivitou vůči elektrofilním činidlům 
+
+ 
+
+
+
+ 
+
+354. 
+
+
+Uvedená sloučenina 
+
+ 
+HNCOHO
+
+C 
+
+ 
+
+A) se získává z ropy 
+
+ 
+
+ 
+
+B) je lakton 
+
+ 
+
+ 
+
+C) může být součástí peptidů a bílkovin 
+
+ 
+
+ 
+
+D) netvoří estery 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+355. 
+
+
+Uvedená reakce 
+CH3Cl2CH2Cl+ HCl
+
+B 
+
+ 
+
+A) je příkladem na elektrofilní substituci aromatických sloučenin 
+
+ 
+
+ 
+
+B) je aktivována ultrafialovým zářením 
+
+ 
+
+ 
+
+C) neprobíhá 
+
+ 
+
+ 
+
+D) je typickou adiční reakcí 
+
+ 
+
+
+
+ 
+
+356. 
+
+
+Karboxylové kyseliny 
+
+C 
+
+ 
+
+A) vznikají oxidací alkoholů do prvního stupně 
+
+ 
+
+ 
+
+B) jsou kyselé, protože jsou vždy aromatické 
+
+ 
+
+ 
+
+C) tvoří pomocí H-vazeb dimery 
+
+ 
+
+ 
+
+D) jsou slabšími kyselinami než fenoly obsahující aktivující substituenty 
+
+ 
+
+
+
+ 
+
+357. 
+
+
+Guanin obsahuje prvky: 
+
+A 
+
+ 
+
+A) C,H,N,O 
+
+ 
+
+ 
+
+B) C,H,O,N,P 
+
+ 
+
+ 
+
+C) C,H,S,O 
+
+ 
+
+ 
+
+D) C,H,N,P,S 
+
+ 
+
+
+
+ 
+
+358. 
+
+
+Uvedená sloučenina 
+
+ 
+SH
+
+A 
+
+ 
+
+A) je kyselejší než fenol 
+
+ 
+
+ 
+
+B) je sulfonylovaný benzen 
+
+ 
+
+ 
+
+C) je rozpustná ve vodě 
+
+ 
+
+ 
+
+D) netvoří soli 
+
+ 
+
+
+
+ 
+
+359. 
+
+
+Vyberte nesprávný výrok: 
+
+A 
+
+ 
+
+A) toluen tvoří izomery na dvojné vazbě 
+
+ 
+
+ 
+
+B) fenol tvoří estery 
+
+ 
+
+ 
+
+C) diethylether je hořlavina 
+
+ 
+
+ 
+
+D) alkoholy poskytují alkylhalogenidy 
+
+ 
+
+
+
+ 
+
+360. 
+
+
+Laktony jsou 
+
+B 
+
+ 
+
+A) deriváty .-aminokyselin 
+
+ 
+
+ 
+
+B) vnitřní estery hydroxykyselin 
+
+ 
+
+ 
+
+C) tvoří soli s amoniakem 
+
+ 
+
+ 
+
+D) jsou cennou součástí mléčné syrovátky 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+361. 
+
+
+Do polohy 2- a 4- benzenového jádra dirigují substituci tyto substituenty 
+
+B 
+
+ 
+
+A) Cl-, CH3-, -NO2 
+
+ 
+
+ 
+
+B) HS-, Br-, -CH(CH3)2 
+
+ 
+
+ 
+
+C) NH2-, -COOH, -CN 
+
+ 
+
+ 
+
+D) -C2H5, -N(CH3)2, -CONH2 
+
+ 
+
+
+
+ 
+
+362. 
+
+
+Tyrosin 
+
+D 
+
+ 
+
+A) obsahuje C, H, I, N, O 
+
+ 
+
+ 
+
+B) je heterocyklická aminokyselina 
+
+ 
+
+ 
+
+C) je amid esenciální aminokyseliny 
+
+ 
+
+ 
+
+D) obsahuje fenolickou skupinu 
+
+ 
+
+
+
+ 
+
+363. 
+
+
+Vyberte nesprávný výrok 
+
+A 
+
+ 
+
+A) kyselina fosforečná je součástí nukleosidů 
+
+B) fenoly jsou slabé kyseliny 
+
+C) ketonická skupina tvoří acetaly 
+
+D) R-CNH2O/H+
+R-COOH
+
+ 
+
+
+
+ 
+
+364. 
+
+
+2-chlorpropan 
+
+B 
+
+ 
+
+A) obsahuje 2 atomy chloru 
+
+ 
+
+ 
+
+B) je isopropylchlorid 
+
+ 
+
+ 
+
+C) reakcí s vodou poskytuje propan-1-ol 
+
+ 
+
+ 
+
+D) neexistuje, protože neexistuje ani isopropan 
+
+ 
+
+
+
+ 
+
+365. 
+
+
+Nitrobenzen 
+
+D 
+
+ 
+
+A) připravíme reakcí benzenu s HNO2 
+
+ 
+
+ 
+
+B) připravíme redukcí anilinu 
+
+ 
+
+ 
+
+C) se vyrábí z ropy 
+
+ 
+
+ 
+
+D) se při SE substituuje do polohy 3 
+
+ 
+
+
+
+ 
+
+366. 
+
+
+Cyklohexan 
+
+C 
+
+ 
+
+A) snadno podléhá redukci 
+
+ 
+
+ 
+
+B) je rovinný útvar 
+
+ 
+
+ 
+
+C) poskytne radikálové substituce 
+
+ 
+
+ 
+
+D) je rozpustný ve vodě 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+367. 
+
+
+Aldehydy se vyznačují tím, že 
+
+C 
+
+ 
+
+A) vytvářejí intermolekulární vodíkové vazby 
+
+ 
+
+ 
+
+B) mají na karbonylovém uhlíku kyselý vodík 
+
+ 
+
+ 
+
+C) podléhají kondenzačním reakcím 
+
+ 
+
+ 
+
+D) je možné je redukovat na karboxylové kyseliny 
+
+ 
+
+
+
+ 
+
+368. 
+
+
+Acyl kyseliny propanové se nazývá 
+
+C 
+
+ 
+
+A) propyl 
+
+ 
+
+ 
+
+B) propenyl 
+
+ 
+
+ 
+
+C) propanoyl 
+
+ 
+
+ 
+
+D) propanyl 
+
+ 
+
+
+
+ 
+
+369. 
+
+
+Zbytek po odtržení bromu z 2-brompentanu se nazývá 
+
+D 
+
+ 
+
+A) 2-brompentyl 
+
+ 
+
+ 
+
+B) pentan-2-brom-yl 
+
+ 
+
+ 
+
+C) pentan-2-bromyl 
+
+ 
+
+ 
+
+D) pentan-2-yl 
+
+ 
+
+
+
+ 
+
+370. 
+
+
+Vyberte chybný výrok: 
+
+D 
+
+ 
+
+A) monosacharidy obsahují sekundární hydroxylovou skupinu 
+
+ 
+
+ 
+
+B) monosacharidy obsahují karbonylovou skupinu 
+
+ 
+
+ 
+
+C) monosacharidy jsou poloacetaly 
+
+ 
+
+ 
+
+D) monosacharidy jsou acetaly 
+
+ 
+
+
+
+ 
+
+371. 
+
+
+Fosfolipidy typu lecitinu 
+
+D 
+
+ 
+
+A) jsou deriváty kyseliny fosforné 
+
+ 
+
+ 
+
+B) jsou součástí buněčných stěn 
+
+ 
+
+ 
+
+C) mají emulgační vlastnosti, protože neobsahují ionty 
+
+ 
+
+ 
+
+D) jsou odvozeny od propan-1,2,3-triolu 
+
+ 
+
+
+
+ 
+
+372. 
+
+
+Vyberte nesprávný výrok 
+
+A 
+
+ 
+
+A) cholesterol je hydrofilní látka, proto se usazuje v cévách 
+
+ 
+
+ 
+
+B) součástí bílkovin mohou být tuky 
+
+ 
+
+ 
+
+C) vitamíny jsou součásti enzymů 
+
+ 
+
+ 
+
+D) estery karboxylových kyselin lze zmýdelnit 
+
+ 
+
+
+
+ 
+
+373. 
+
+
+Vyberte správný výrok 
+
+A 
+
+ 
+
+A) sacharóza je disacharid 
+
+ 
+
+ 
+
+B) benzen zaujímá stabilnější židličkovou konformaci 
+
+ 
+
+ 
+
+C) alkoholát připravíme reakcí alkoholu s hydroxidem alkalického kovu 
+
+ 
+
+ 
+
+D) kyselina chloroctová je slabší než kyselina octová 
+
+ 
+
+
+
+ 
+
+
+374. 
+
+
+Dvojná vazba mezi dvěma atomy uhlíku 
+
+B 
+
+ 
+
+A) je tvořena dvěma vazbami . 
+
+ 
+
+ 
+
+B) je příčinou zvýšené reaktivity alkenů oproti alkanům 
+
+ 
+
+ 
+
+C) znesnadňuje reakci alkenů s kyselinou sírovou 
+
+ 
+
+ 
+
+D) je nejčastějším místem průběhu substitučních reakcí 
+
+ 
+
+
+
+ 
+
+375. 
+
+
+Ethylen 
+
+A 
+
+ 
+
+A) je planární útvar 
+
+ 
+
+ 
+
+B) vzniká oxidací kyseliny octové 
+
+ 
+
+ 
+
+C) je polymer ethenu 
+
+ 
+
+ 
+
+D) patří mezi termosety 
+
+ 
+
+
+
+ 
+
+376. 
+
+
+Tetraedrické uspořádání vazeb 
+
+C 
+
+ 
+
+A) je příčinou zvýšené reaktivity sloučenin 
+
+ 
+
+ 
+
+B) je charakteristické pro alkany, proto jsou barevné 
+
+ 
+
+ 
+
+C) je typické pro parafiny 
+
+ 
+
+ 
+
+D) se vyskytuje u hybridizace pyramidální 
+
+ 
+
+
+
+ 
+
+377. 
+
+
+Polarizovatelnost vazby 
+
+C 
+
+ 
+
+A) nemá vliv na reaktivitu sloučenin 
+
+ 
+
+ 
+
+B) je důležitá pro vedení elektrického proudu organickými sloučeninami 
+
+ 
+
+ 
+
+C) je tím vyšší, čím dále jsou valenční elektrony od jádra 
+
+ 
+
+ 
+
+D) zodpovídá za barevnost organických sloučenin 
+
+ 
+
+
+
+ 
+
+378. 
+
+
+Konjugovaný systém 
+
+B 
+
+ 
+
+A) může být planární 
+
+ 
+
+ 
+
+B) musí být planární 
+
+ 
+
+ 
+
+C) je tvořen uhlíkovými atomy v hybridizaci sp3 
+
+ 
+
+ 
+
+D) je tvořen uhlíkovými atomy v hybridizaci sp 
+
+ 
+
+
+
+ 
+
+379. 
+
+
+Hybridizace 
+
+C 
+
+ 
+
+A) nemá vliv na tvar molekul 
+
+ 
+
+ 
+
+B) je příčinou optické aktivity sloučenin 
+
+ 
+
+ 
+
+C) je energetické sjednocení atomových orbitalů 
+
+ 
+
+ 
+
+D) nabývá dvou rozměrů: +1/2 a –1/2 
+
+ 
+
+
+
+ 
+
+380. 
+
+
+Kvarterní amoniové soli 
+
+A 
+
+ 
+
+A) vznikají reakcí aminu s přebytkem alkylhalogenidu 
+
+ 
+
+ 
+
+B) lze snadno protonovat kyselinou sírovou 
+
+ 
+
+ 
+
+C) mají obecný vzorec R3NH + Y – 
+
+ 
+
+ 
+
+D) jsou bazické 
+
+ 
+
+
+
+ 
+
+
+381. 
+
+
+Tetrahydrofuran 
+
+B 
+
+ 
+
+A) obsahuje v molekule C,H,N,O 
+
+ 
+
+ 
+
+B) je základem pentóz 
+
+ 
+
+ 
+
+C) nemůžeme považovat za cyklický ether, protože je aromatický 
+
+ 
+
+ 
+
+D) je aromatický, protože se vyznačuje vůní po oreganu 
+
+ 
+
+
+
+ 
+
+382. 
+
+
+Chloridy karboxylových kyselin 
+
+D 
+
+ 
+
+A) jsou pouze hypotetickými meziprodukty organických syntéz 
+
+ 
+
+ 
+
+B) získáme reakcí karboxylové kyseliny se suchým chlorovodíkem 
+
+ 
+
+ 
+
+C) nejsou příliš reaktivní 
+
+ 
+
+ 
+
+D) jsou acylační činidla 
+
+ 
+
+
+
+ 
+
+383. 
+
+
+L-Serin 
+
+C 
+
+ 
+
+A) obsahuje v molekule síru 
+
+ 
+
+ 
+
+B) je diaminokyselina 
+
+ 
+
+ 
+
+C) může tvořit vnitřní sůl 
+
+ 
+
+ 
+
+D) absorbuje intenzivně UV světlo 
+
+ 
+
+
+
+ 
+
+384. 
+
+
+Bazická skupina se vyznačuje tím, že 
+
+A 
+
+ 
+
+A) má elektrony k dispozici pro vazbu kladného iontu 
+
+ 
+
+ 
+
+B) poskytuje proton pro vazbu s kyselinou 
+
+ 
+
+ 
+
+C) je obvykle planární 
+
+ 
+
+ 
+
+D) je schopna přijmout elektron 
+
+ 
+
+
+
+ 
+
+385. 
+
+
+Aryl 
+
+A 
+
+ 
+
+A) je zbytek aromatické sloučeniny 
+
+ 
+
+ 
+
+B) je zbytek toluenu 
+
+ 
+
+ 
+
+C) je benzoyl a podobné látky 
+
+ 
+
+ 
+
+D) reaktivní, protože je ve vaničkové konformaci 
+
+ 
+
+
+
+ 
+
+386. 
+
+
+Amidy 
+
+D 
+
+ 
+
+A) poskytují s alkoholy estery 
+
+ 
+
+ 
+
+B) jsou bazické, protože mají volný elektronový pár na dusíku 
+
+ 
+
+ 
+
+C) vznikají reakcí karboxylové kyseliny s amoniakem či s aminy 
+
+ 
+
+ 
+
+D) jsou acylderiváty amoniaku 
+
+ 
+
+
+
+ 
+
+387. 
+
+
+Anhydridy karboxylových kyselin 
+
+C 
+
+ 
+
+A) vznikají redukcí karboxylových kyselin 
+
+ 
+
+ 
+
+B) jsou sloučeniny obecného vzorce R-CO-O-O-CO-R 
+
+ 
+
+ 
+
+C) Slouží k syntézám esterů karboxylových kyselin 
+
+ 
+
+ 
+
+D) nereagují s vodou (odtud jejich pojmenování) 
+
+ 
+
+
+
+ 
+
+ 
+
+
+388. 
+
+
+Kyselina vinná 
+
+B 
+
+ 
+
+A) je značně aromatická 
+
+ 
+
+ 
+
+B) tvoří enantiomery 
+
+ 
+
+ 
+
+C) je trihydroxykyselina 
+
+ 
+
+ 
+
+D) její kyselost je závislá na odrůdě vinných hroznů 
+
+ 
+
+
+
+ 
+
+389. 
+
+
+Kyselina salicylová 
+
+A 
+
+ 
+
+A) je aromatická hydroxykyselina 
+
+ 
+
+ 
+
+B) tvoří intramolekulární anhydridy 
+
+ 
+
+ 
+
+C) je chirální 
+
+ 
+
+ 
+
+D) je stabilnější v židličkové konformaci 
+
+ 
+
+
+
+ 
+
+390. 
+
+
+Alkylhalogenidy 
+
+A 
+
+ 
+
+A) jsou vesměs velmi reaktivní sloučeniny 
+
+ 
+
+ 
+
+B) nejsou toxické 
+
+ 
+
+ 
+
+C) jsou rozpustné ve vodě, protože halogen je nositelem hydrofility 
+
+ 
+
+ 
+
+D) působením alkoholů přecházejí na estery 
+
+ 
+
+
+
+ 
+
+391. 
+
+
+Alkoholy 
+
+B 
+
+ 
+
+A) poskytují s chloridy kyselin ethery 
+
+ 
+
+ 
+
+B) jsou slabšími kyselinami než voda 
+
+ 
+
+ 
+
+C) jsou všechny, díky přítomnosti skupiny –OH, mísitelné s vodou 
+
+ 
+
+ 
+
+D) nelze protonizovat 
+
+ 
+
+
+
+ 
+
+392. 
+
+
+Aminy 
+
+C 
+
+ 
+
+A) obsahují vždy skupinu –CONH2 
+
+ 
+
+ 
+
+B) mohou s vodou poskytovat bazické alkoholy 
+
+ 
+
+ 
+
+C) poskytují reakci až se 4 molekulami alkylačního činidla 
+
+ 
+
+ 
+
+D) obsahují vždy terciární uhlík, proto jsou bazické 
+
+ 
+
+
+
+ 
+
+393. 
+
+
+Fenoly 
+
+D 
+
+ 
+
+A) jsou kyselejší než karboxylové kyseliny 
+
+ 
+
+ 
+
+B) poskytují s karboxylovými kyselinami klasickou esterifikační reakci 
+
+ 
+
+ 
+
+C) nelze nitrovat 
+
+ 
+
+ 
+
+D) poskytují s hydroxidy alkalických kovů soli 
+
+ 
+
+
+
+ 
+
+394. 
+
+
+Ethery 
+
+B 
+
+ 
+
+A) mají charakteristickou skupinu R-COOR 
+
+ 
+
+ 
+
+B) je možné vyrobit z alkoholů 
+
+ 
+
+ 
+
+C) mají v molekule vždy pouze nasycené uhlíkaté zbytky 
+
+ 
+
+ 
+
+D) zodpovídají za terciární a kvarterní strukturu proteinů 
+
+ 
+
+
+
+ 
+
+ 
+
+
+395. 
+
+
+Pyrrol 
+
+B 
+
+ 
+
+A) je součástí nukleových kyselin 
+
+ 
+
+ 
+
+B) je tvořen pětičetným cyklem 
+
+ 
+
+ 
+
+C) obsahuje v molekule 2 atomy dusíku 
+
+ 
+
+ 
+
+D) má vlastnosti sekundárního aminu 
+
+ 
+
+
+
+ 
+
+396. 
+
+
+Peptidická vazba je 
+
+C 
+
+ 
+
+A) -COO-NH- 
+
+ 
+
+ 
+
+B) je vazba mezi ketonem (-CO-) a aminem (-NH2) 
+
+ 
+
+ 
+
+C) je štěpena hydrolázami 
+
+ 
+
+ 
+
+D) tvoří vazbu mezi peptidem a kovem 
+
+ 
+
+
+
+ 
+
+397. 
+
+
+Methan 
+
+C 
+
+ 
+
+A) je základní surovinou pro výrobu methylesterů 
+
+ 
+
+ 
+
+B) slouží k výrobě polymethylenu 
+
+ 
+
+ 
+
+C) je extrémně slabou kyselinou 
+
+ 
+
+ 
+
+D) je extrémně toxický 
+
+ 
+
+
+
+ 
+
+398. 
+
+
+Terciární butanol 
+
+A 
+
+ 
+
+A) je 2-methylpropan-2-ol 
+
+ 
+
+ 
+
+B) oxiduje se na terciární butanal 
+
+ 
+
+ 
+
+C) není možno připravit 
+
+ 
+
+ 
+
+D) je nekyselejším alkoholem 
+
+ 
+
+399. 
+
+
+CH3CH2CH2Br 
+
+C 
+
+ 
+
+A) je terciární alkylhalogenid 
+
+ 
+
+ 
+
+B) je nereaktivní freon 
+
+ 
+
+ 
+
+C) může sloužit k přípravě propyletherů 
+
+ 
+
+ 
+
+D) má správný chemický název propan-3-brom 
+
+ 
+
+
+
+ 
+
+400. 
+
+
+Tyto vzorce představují 
+
+ 
+COOHHOCH3CH3COOHH3COHCH3
+
+D 
+
+ 
+
+A) enantiomery 
+
+ 
+
+ 
+
+B) diastereoisomery 
+
+ 
+
+ 
+
+C) geometrické izomery 
+
+ 
+
+ 
+
+D) totožné látky 
+
+ 
+
+
+
+ 
+
+

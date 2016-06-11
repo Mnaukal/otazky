@@ -7,34 +7,14 @@
         <meta name="description" content="AI pro piškvorky">
         <!--<link rel="stylesheet" type="text/css" href="style.css">-->
 
-        <script type="text/javascript">
-            'use strict';
-
-            function readSingleFile(e) {
-                var file = e.target.files[0];
-                if (!file) {
-                    return;
-                }
-                var reader = new FileReader();
-                reader.onload = function(e) {
-                    var contents = e.target.result;
-                    displayContents(contents);
-                };
-                reader.readAsText(file);
-            }
-
-            function displayContents(contents) {
-                var element = document.getElementById('file-content');
-                element.innerHTML = contents;
-            }
-
-            
-        </script>
+        <script type="text/javascript" src="otazky.js"></script>
     </head>
     <body>    
         <h1>Otázky</h1>
         
         <input type="file" id="file-input" />
+        <input type="submit" value="Biologie" onclick="readFile('vzorove_otazky_faf_biologie_1.txt')">
+        <input type="submit" value="Chemie" onclick="readFile('vzorove_otazky_faf_chemie_1.txt')">
         <h3>Contents of the file:</h3>
         <pre id="file-content"></pre>
         
