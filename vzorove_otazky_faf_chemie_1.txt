@@ -230,7 +230,7 @@ D) v atomu neexistují dva elektrony, které by měly všechna kvantová čísla
 
  
 
-
+
 7. 
 
 
@@ -453,7 +453,7 @@ D) 1s 2s 3s 4s 2p 3p 4p 3d
 
  
 
-
+
 13. 
 
 
@@ -699,7 +699,7 @@ D) lithium
 
  
 
-
+
 20. 
 
 
@@ -945,7 +945,7 @@ D) 3x
 
  
 
-
+
 27. 
 
 
@@ -1193,7 +1193,7 @@ D) síry
 
  
 
-
+
 34. 
 
 
@@ -1437,7 +1437,7 @@ D) mangan
 
  
 
-
+
 41. 
 
 
@@ -1685,7 +1685,7 @@ D) má stabilní konfiguraci
 
  
 
-
+
 48. 
 
 
@@ -1931,7 +1931,7 @@ D) H2N2O2
 
  
 
-
+
 55. 
 
 
@@ -2177,7 +2177,7 @@ D) chlor
 
  
 
-
+
 62. 
 
 
@@ -2404,7 +2404,7 @@ D) 0
 
  
 
-
+
 68. 
 
 
@@ -2650,7 +2650,7 @@ D) kyselina chloristá
 
  
 
-
+
 75. 
 
 
@@ -2896,7 +2896,7 @@ D) kyselina
 
  
 
-
+
 82. 
 
 
@@ -3141,7 +3141,7 @@ D) s kyselinami a hydroxidy
 
 
 
-
+
 89. 
 
 
@@ -3387,7 +3387,7 @@ D) 10-5 mol/l
 
  
 
-
+
 96. 
 
 
@@ -3633,7 +3633,7 @@ D) Cu + HNO3 .
 
  
 
-
+
 103. 
 
 
@@ -3881,7 +3881,7 @@ D) NaOH
 
  
 
-
+
 110. 
 
 
@@ -4105,7 +4105,7 @@ D) Pt
 
  
 
-
+
 116. 
 
 
@@ -4351,7 +4351,7 @@ D) komplexotvornou reakci
 
 
 
-
+
 123. 
 
 
@@ -4573,7 +4573,7 @@ D) rovnovážnou konstantou
 
  
 
-
+
 129. 
 
 
@@ -4799,7 +4799,7 @@ D) Cu + HCl .
 
  
 
-
+
 135. 
 
 
@@ -5047,7 +5047,7 @@ D) polární vazby H - O
 
  
 
-
+
 142. 
 
 
@@ -5295,7 +5295,7 @@ D) nemá oxidační účinky
 
  
 
-
+
 149. 
 
 
@@ -5541,7 +5541,7 @@ D) NaHS - sulfid sodný
 
  
 
-
+
 156. 
 
 
@@ -5787,7 +5787,7 @@ D) HClO3
 
  
 
-
+
 163. 
 
 
@@ -6012,7 +6012,7 @@ D) 5,55 dm3
 
  
 
-
+
 169. 
 
 
@@ -6230,7 +6230,7 @@ D) 130 g
 
  
 
-
+
 175. 
 
 
@@ -6449,7 +6449,7 @@ D) 0,715 mol
 
  
 
-
+
 181. 
 
 
@@ -6668,7 +6668,7 @@ D) 5,0 g
 
  
 
-
+
 187. 
 
 
@@ -6891,7 +6891,7 @@ D) CaCl2.H2O
 
  
 
-
+
 193. 
 
 
@@ -7115,7 +7115,7 @@ D) 8,2.10-10 mol.dm-3
 
  
 
-
+
 199. 
 
 
@@ -7340,7 +7340,7 @@ D) benzaldehyd
 
  
 
-
+
 205. 
 
 
@@ -7586,7 +7586,7 @@ D) Benzen-1-ol
 
  
 
-
+
 212. 
 
 
@@ -7832,7 +7832,7 @@ D) benzenu způsobuje jeho barevnost
 
  
 
-
+
 219. 
 
 
@@ -8055,7 +8055,7 @@ D) neexistuje
 
  
 
-
+
 225. 
 
 
@@ -8279,7 +8279,7 @@ D) Surovina pro chemický průmysl obsahující především heterocyklické slo
 
  
 
-
+
 231. 
 
 
@@ -8527,7 +8527,7 @@ D) propanthiol
 
  
 
-
+
 238. 
 
 
@@ -8747,7 +8747,7 @@ D) pentan-2-olid
 
  
 
-
+
 244. 
 
 
@@ -8992,7 +8992,7 @@ D) protože je součástí olejů, nemůže tvořit ve vodě rozpustné soli
 
 
 
-
+
 251. 
 
 
@@ -9238,7 +9238,7 @@ D) je meziproduktem pro přípravu aromatických alkoholů
 
  
 
-
+
 258. 
 
 
@@ -9456,7 +9456,7 @@ D) 2,4,6-tribromanilin
 
  
 
-
+
 264. 
 
 
@@ -9700,7 +9700,7 @@ D) vápníku
 
 
 
-
+
 271. 
 
 
@@ -9922,7 +9922,7 @@ D) H2N-CHOH-CHOH-CH3
 
  
 
-
+
 277. 
 
 
@@ -10167,7 +10167,7 @@ D) octyl
 
 
 
-
+
 284. 
 
 
@@ -10413,7 +10413,7 @@ D) obsahuje indol
 
  
 
-
+
 291. 
 
 
@@ -10661,7 +10661,7 @@ D) kvarterní struktura
 
  
 
-
+
 298. 
 
 
@@ -10907,7 +10907,7 @@ D) je součástí tuků
 
  
 
-
+
 305. 
 
 
@@ -11136,7 +11136,7 @@ D) aspartam
 
  
 
-
+
 311. 
 
 
@@ -11352,7 +11352,7 @@ D) vznikne rozpuštěním celulózy v acetonu
 
  
 
-
+
 317. 
 
 
@@ -11598,7 +11598,7 @@ D) 6 cyklů
 
  
 
-
+
 324. 
 
 
@@ -11844,7 +11844,7 @@ D) nuklean
 
  
 
-
+
 331. 
 
 
@@ -12061,7 +12061,7 @@ D) pyrimidin
 
 
 
-
+
 337. 
 
 
@@ -12258,7 +12258,7 @@ D) uracilem a cysteinem
 
  
 
-
+
 342. 
 
 
@@ -12504,7 +12504,7 @@ D) je 2-hydroxybutanová kyselina
 
  
 
-
+
 349. 
 
 
@@ -12728,7 +12728,7 @@ D) netvoří estery
 
  
 
-
+
 355. 
 
 
@@ -12951,7 +12951,7 @@ D) jsou cennou součástí mléčné syrovátky
 
  
 
-
+
 361. 
 
 
@@ -13161,7 +13161,7 @@ D) je rozpustný ve vodě
 
  
 
-
+
 367. 
 
 
@@ -13407,7 +13407,7 @@ D) kyselina chloroctová je slabší než kyselina octová
 
  
 
-
+
 374. 
 
 
@@ -13653,7 +13653,7 @@ D) jsou bazické
 
  
 
-
+
 381. 
 
 
@@ -13901,7 +13901,7 @@ D) nereagují s vodou (odtud jejich pojmenování)
 
  
 
-
+
 388. 
 
 
@@ -14149,7 +14149,7 @@ D) zodpovídají za terciární a kvarterní strukturu proteinů
 
  
 
-
+
 395. 
 
 
@@ -14359,4 +14359,4 @@ D) totožné látky
 
  
 
-
+

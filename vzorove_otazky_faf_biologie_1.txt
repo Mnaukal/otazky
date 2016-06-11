@@ -241,7 +241,7 @@ D) paleontologie
 
 
 
-
+
 8. 
 
 
@@ -488,7 +488,7 @@ D) aminokyselin
 
  
 
-
+
 15. 
 
 
@@ -734,7 +734,7 @@ D) fagocytózou
 
  
 
-
+
  
 
 22. 
@@ -980,7 +980,7 @@ D) molekuly vody
 
 
 
-
+
 29. 
 
 
@@ -1226,7 +1226,7 @@ D) lysozóm
 
  
 
-
+
 36. 
 
 
@@ -1472,7 +1472,7 @@ D) zabezpečuje navázání histonů na DNA
 
  
 
-
+
 43. 
 
 
@@ -1718,7 +1718,7 @@ D) zvyšování genetické variability
 
  
 
-
+
 50. 
 
 
@@ -1964,7 +1964,7 @@ D) degenerace
 
  
 
-
+
 57. 
 
 
@@ -2210,7 +2210,7 @@ D) fenotyp
 
  
 
-
+
 64. 
 
 
@@ -2437,7 +2437,7 @@ D) celé homologní chromozómy
 
  
 
-
+
 70. 
 
 
@@ -2663,7 +2663,7 @@ D) kombinační čtverec
 
  
 
-
+
 76. 
 
 
@@ -2883,7 +2883,7 @@ D) 3 : 1
 
  
 
-
+
 82. 
 
 
@@ -3109,7 +3109,7 @@ D) genealogické
 
  
 
-
+
 88. 
 
 
@@ -3332,7 +3332,7 @@ D) nedědí se
 
  
 
-
+
 94. 
 
 
@@ -3573,7 +3573,7 @@ D) poměr pohlaví
 
 
 
-
+
  
 
 101. 
@@ -3819,7 +3819,7 @@ D) opsonizaci
 
 
 
-
+
 108. 
 
 
@@ -4065,7 +4065,7 @@ D) priony
 
  
 
-
+
 115. 
 
 
@@ -4339,7 +4339,7 @@ D) vylučování
 
  
 
-
+
 122. 
 
 
@@ -4589,7 +4589,7 @@ D) desmozómů
 
  
 
-
+
 128. 
 
 
@@ -4839,7 +4839,7 @@ D) morula
 
  
 
-
+
 134. 
 
 
@@ -5111,7 +5111,7 @@ D) adrenalin
 
 
 
-
+
 141. 
 
 
@@ -5385,7 +5385,7 @@ D) dřeně kostí
 
  
 
-
+
 148. 
 
 
@@ -5659,7 +5659,7 @@ D) kolagenem a elastinem
 
  
 
-
+
 155. 
 
 
@@ -5933,7 +5933,7 @@ D) mozková kůra
 
  
 
-
+
 162. 
 
 
@@ -6207,7 +6207,7 @@ D) prodloužené míše
 
  
 
-
+
 169. 
 
 
@@ -6481,7 +6481,7 @@ D) mozkové kůry
 
  
 
-
+
 176. 
 
 
@@ -6731,7 +6731,7 @@ D) až 72 hodin
 
  
 
-
+
 182. 
 
 
@@ -7005,7 +7005,7 @@ D) inhibitory rozkladných reakcí
 
  
 
-
+
 189. 
 
 
@@ -7255,7 +7255,7 @@ D) NHCO2
 
  
 
-
+
 195. 
 
 
@@ -7529,7 +7529,7 @@ D) 70 – 90%
 
  
 
-
+
 202. 
 
 
@@ -7779,7 +7779,7 @@ D) transferin
 
  
 
-
+
 208. 
 
 
@@ -8053,7 +8053,7 @@ D) nelze ochránit plod s odlišným typem
 
  
 
-
+
 215. 
 
 
@@ -8327,7 +8327,7 @@ D) kyčelní žíla
 
  
 
-
+
 222. 
 
 
@@ -8577,7 +8577,7 @@ D) jen pokožkou
 
  
 
-
+
 228. 
 
 
@@ -8827,7 +8827,7 @@ D) prolaktinu
 
  
 
-
+
 234. 
 
 
@@ -9101,7 +9101,7 @@ D) aferentní neuron
 
  
 
-
+
 241. 
 
 
@@ -9374,7 +9374,7 @@ D) schizofrenií
 
 
 
-
+
 248. 
 
 
@@ -9624,7 +9624,7 @@ D) řasnatého tělesa
 
  
 
-
+
 254. 
 
 
@@ -9896,7 +9896,7 @@ D) pleistocénu
 
 
 
-
+
 261. 
 
 
@@ -10142,7 +10142,7 @@ D) prokambiem
 
  
 
-
+
 268. 
 
 
@@ -10388,7 +10388,7 @@ D) do hvězdice
 
  
 
-
+
 275. 
 
 
@@ -10613,7 +10613,7 @@ D) aminokyseliny
 
  
 
-
+
 281. 
 
 
@@ -10859,7 +10859,7 @@ D) typický pro každého jedince
 
  
 
-
+
 288. 
 
 
@@ -11080,7 +11080,7 @@ D) cévami a buňkami průvodními, lýkovým parenchymem a lýkových sklerench
 
  
 
-
+
 294. 
 
 
@@ -11306,7 +11306,7 @@ D) pro primární stavbu kořene
 
  
 
-
+
 300. 
 
 
@@ -11552,7 +11552,7 @@ D) orientace orgánů rostliny – stonek vzhůru ke světlu, kořen dolů
 
  
 
-
+
 307. 
 
 
@@ -11798,7 +11798,7 @@ D) prozenchym
 
  
 
-
+
 314. 
 
 
@@ -12022,7 +12022,7 @@ D) hibernakule
 
  
 
-
+
 320. 
 
 
@@ -12248,7 +12248,7 @@ D) označení vláknité stélky řas
 
  
 
-
+
 326. 
 
 
@@ -12494,7 +12494,7 @@ D) závojenka olovová
 
  
 
-
+
 333. 
 
 
@@ -12740,7 +12740,7 @@ D) cortex (kůra)
 
  
 
-
+
 340. 
 
 
@@ -12962,7 +12962,7 @@ D) toxiny druhů oddělení obrněnek, které znehodnocují pitnou vodu
 
  
 
-
+
 346. 
 
 
@@ -13184,7 +13184,7 @@ D) pukléřka islandská
 
  
 
-
+
 352. 
 
 
@@ -13407,7 +13407,7 @@ D) váleč
 
  
 
-
+
 358. 
 
 
@@ -13630,7 +13630,7 @@ D) tisotvaré
 
  
 
-
+
 364. 
 
 
@@ -13853,7 +13853,7 @@ D) padlí
 
  
 
-
+
 370. 
 
 
@@ -14079,7 +14079,7 @@ D) šíří se pomalu na uvolněné niky
 
  
 
-
+
 376. 
 
 
@@ -14325,7 +14325,7 @@ D) peckou peckovice
 
  
 
-
+
 383. 
 
 
@@ -14571,7 +14571,7 @@ D) hluchavkovitých
 
  
 
-
+
 390. 
 
 
@@ -14797,7 +14797,7 @@ D) sporýšovitých (Verbenaceae)
 
  
 
-
+
 396. 
 
 
@@ -14975,4 +14975,4 @@ D) 700-910 nm
 
  
 
-
+
