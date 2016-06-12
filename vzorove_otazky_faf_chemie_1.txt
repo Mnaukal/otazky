@@ -1,4 +1,4 @@
-1.
+1. 
 
 
 
@@ -4250,7 +4250,6 @@ D) žádný prvek
 
 
 Určete, kolik molů kyseliny dusičné je třeba v následující oxidačně-redukční rovnici: 
-
 Cu + HNO3 . Cu(NO3)2 + NO + H2O 
 
 D 
@@ -7554,7 +7553,7 @@ D) kyselina octová
 211. 
 
 
- Která z uvedených sloučenin bude nejlépe rozpustná ve vodě? 
+Která z uvedených sloučenin bude nejlépe rozpustná ve vodě? 
 
 A 
 
@@ -8129,9 +8128,7 @@ D) chinolin
 227. 
 
 
-Vzorec 
-
- 
+Vzorec  
 CHHHCOO-H
 
 C 
@@ -8632,9 +8629,7 @@ D) CH3CH2CH2O-
 241. 
 
 
-Uvedené sloučeniny znázorňují 
-
- 
+Uvedené sloučeniny znázorňují  
 OHOHOHOH
 
 D 
@@ -14325,8 +14320,6 @@ D) má správný chemický název propan-3-brom
 
 
 Tyto vzorce představují 
-
- 
 COOHHOCH3CH3COOHH3COHCH3
 
 D 

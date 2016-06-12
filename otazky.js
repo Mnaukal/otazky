@@ -38,57 +38,72 @@ function textToArray(text)
     var lines = text.split("\n");
     var read = 0;
     // 0 -> number
-    // 1 -> question
-    // 2 -> correct answer
-    // 3-6 -> Answers
-    
+    // 1 -> empty line
+    // 2 -> question
+    // 3 -> empty line / next line of question
+    // 4 -> correct answer
+    // 5 -> empty line
+    // 6,8,10,12 -> Answers
+    // 7,9,11,13 -> empty lines / next lines of answers
+    // 14 -> end
+
     var question = {};
-        
+
     for (var i = 0; i < lines.length; i++)
     {
-        if(lines[i].length <= 2 || lines[i] == " " || lines[i] == "")
+        if(lines[i].length <= 1 || lines[i].substr(0,1) == " " || lines[i] == " " || lines[i] == "")
         {
+            if((read % 2) == 1) {
+                read++;
+                
+                if(read == 14) { // end of question
+                    questions.push(question);
+                    console.log(question);
+                    read = 0;
+                }
+            }
+                
             continue;
         }
-        
-        if(read == 0)
-        {
+
+        if(read == 0) { //number
             question.number = parseInt(lines[i]);
             read = 1;
-        }
-        else if(read == 1)
-        {
+        } else if(read == 2) { // question
             question.question = lines[i];
-            read = 2;
-        }
-        else if(read == 2)
-        {
-            question.correct = lines[i];
             read = 3;
-        }
-        else if(read == 3)
-        {
-            question.A = lines[i];
-            read = 4;
-        }
-        else if(read == 4)
-        {
-            question.B = lines[i];
+        } else if(read == 3) { // next line of question
+            question.question += lines[i];
+            read = 3;
+        } else if(read == 4) { //correct
+            question.correct = lines[i].substr(0,1);
             read = 5;
-        }
-        else if(read == 5)
-        {   
+        } else if(read == 6) { // A
+            question.A = lines[i];
+            read = 7;
+        } else if(read == 7) { // next line of A
+            question.A += lines[i];
+            read = 7;
+        } else if(read == 8) { // B
+            question.B = lines[i];
+            read = 9;
+        } else if(read == 9) { // next line of B
+            question.B += lines[i];
+            read = 9;
+        } else if(read == 10) { // C
             question.C = lines[i];
-            read = 6;
-        }
-        else if(read == 6)
-        {   
+            read = 11;
+        } else if(read == 11) { // next line of C
+            question.C += lines[i];
+            read = 11;
+        } else if(read == 12) { // D
             question.D = lines[i];
-            questions.push(question);
-            console.log(question);
-            read = 0;
-        }
+            read = 13;
+        } else if(read == 13) { // next line of D
+            question.D += lines[i];
+            read = 13;
+        } 
     }
-    
+
     console.log(questions.length);
 }
