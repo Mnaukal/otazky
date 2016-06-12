@@ -3,21 +3,33 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Otázky</title>
+        <title>Questions</title>
         <meta name="description" content="AI pro piškvorky">
-        <!--<link rel="stylesheet" type="text/css" href="style.css">-->
+        <link rel="stylesheet" type="text/css" href="style.css">
 
         <script type="text/javascript" src="otazky.js"></script>
     </head>
-    <body>    
-        <h1>Otázky</h1>
+    <body>
+        <div id="top">
+        <h1>Questions</h1>
         
         <input type="file" id="file-input" />
-        <input type="submit" value="Biologie" onclick="readFile('vzorove_otazky_faf_biologie_1.txt')">
-        <input type="submit" value="Chemie" onclick="readFile('vzorove_otazky_faf_chemie_1.txt')">
-        <h3>Contents of the file:</h3>
-        <div id="loading"></div>
-        <pre id="file-content"></pre>
+        <br><input type="submit" value="Vzorové otázky Farmaceutická fakulta UK - Biologie" onclick="readFile('vzorove_otazky_faf_biologie_1.txt')">
+        <br><input type="submit" value="Vzorové otázky Farmaceutická fakulta UK - Chemie" onclick="readFile('vzorove_otazky_faf_chemie_1.txt')">
+        </div>
+        
+        <div id="questionBox">
+            <div id="question">
+               
+            </div>
+        </div>
+        <div id="navigation">
+            <div id="prev" onclick="changeQuestion(-1)" style="cursor: pointer;">Previous question</div>
+            <div id="next" onclick="changeQuestion(1)" style="cursor: pointer;">Next question</div>
+            <div id="random" onclick="randomQuestion()" style="cursor: pointer;">Random question</div>
+            
+            <!--<pre id="file-content"></pre>-->
+        </div>
         
         <script type="text/javascript">
             document.getElementById('file-input')

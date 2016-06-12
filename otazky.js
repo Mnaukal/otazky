@@ -1,6 +1,7 @@
 'use strict';
 
 var questions = [];
+var currentQuestion = 1;
 
 function readSingleFile(e) {
     var file = e.target.files[0];
@@ -28,13 +29,15 @@ function readFile(fileName)
 }
 
 function displayContents(contents) {
-    var element = document.getElementById('file-content');
-    element.innerHTML = contents;
+    //var element = document.getElementById('file-content');
+    //element.innerHTML = contents;
     textToArray(contents)
 }
 
 function textToArray(text)
 {
+    questions = [];
+    
     var lines = text.split("\n");
     var read = 0;
     // 0 -> number
@@ -59,6 +62,7 @@ function textToArray(text)
                 if(read == 14) { // end of question
                     questions.push(question);
                     console.log(question);
+                    question = new Object();
                     read = 0;
                 }
             }
@@ -106,4 +110,44 @@ function textToArray(text)
     }
 
     console.log(questions.length);
+    var element = document.getElementById('question');
+    element.innerHTML = "Loaded " + questions.length + " questions";
+    randomQuestion();
+}
+
+function changeQuestion(number)
+{
+    currentQuestion = (currentQuestion + number).mod(questions.length);
+    showQuestion();
+}
+
+
+function randomQuestion()
+{
+    currentQuestion = (Math.floor((Math.random() * questions.length) + 1)) % questions.length;
+    showQuestion();
+}
+
+function showQuestion()
+{
+    var element = document.getElementById('question');
+    var text = "<div style='font-weight: bold;'>" + questions[currentQuestion].number + ". " + questions[currentQuestion].question + "</div> \
+<div onclick='answer(this, " + ((questions[currentQuestion].correct == "A") ? "true" : "false") + ")' style='cursor: pointer;'>" + questions[currentQuestion].A + "</div> \
+<div onclick='answer(this, " + ((questions[currentQuestion].correct == "B") ? "true" : "false") + ")' style='cursor: pointer;'>" + questions[currentQuestion].B + "</div> \
+<div onclick='answer(this, " + ((questions[currentQuestion].correct == "C") ? "true" : "false") + ")' style='cursor: pointer;'>" + questions[currentQuestion].C + "</div> \
+<div onclick='answer(this, " + ((questions[currentQuestion].correct == "D") ? "true" : "false") + ")' style='cursor: pointer;'>" + questions[currentQuestion].D + "</div>";
+    element.innerHTML = text;
+}
+
+function answer(element, correct)
+{
+    if(correct == true){
+        element.style.background = "#0F0";
+    } else {
+        element.style.background = "#F00";
+    }
+}
+
+Number.prototype.mod = function(n) {
+    return ((this%n)+n)%n;
 }

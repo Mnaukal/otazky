@@ -11985,9 +11985,7 @@ D) je puridin
 335. 
 
 
-Tento vzorec je 
-
- 
+Tento vzorec je  
 HNNHOO
 
 A 
@@ -12023,9 +12021,7 @@ D) pyridazindion
 336. 
 
 
-Tento vzorec je 
-
- 
+Tento vzorec je  
 HNNHOO
 
 B 
@@ -12061,8 +12057,6 @@ D) pyrimidin
 
 
 Tento vzorec je 
-
- 
 HNNHONH2
 
 C 
@@ -12099,8 +12093,6 @@ D) guanosin
 
 
 Tento vzorec je 
-
- 
 NNNHNNH2
 
 A 
@@ -12136,9 +12128,7 @@ D) guanidin
 339. 
 
 
-Tento vzorec je 
-
- 
+Tento vzorec je  
 HNNNHNONH2
 
 A 
@@ -12678,9 +12668,7 @@ D) se vyznačuje velmi malou reaktivitou vůči elektrofilním činidlům
 354. 
 
 
-Uvedená sloučenina 
-
- 
+Uvedená sloučenina  
 HNCOHO
 
 C 
@@ -12833,9 +12821,7 @@ D) C,H,N,P,S
 358. 
 
 
-Uvedená sloučenina 
-
- 
+Uvedená sloučenina  
 SH
 
 A 
